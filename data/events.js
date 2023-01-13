@@ -1,0 +1,110 @@
+export default [
+    {
+        img: "/../public/images/1.jpg",
+        type:'Tech Workshops',
+        title: "Tech Workshops",
+        text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    },
+    {
+        img: "/../public/images/2.jpg",
+        type:'Tech Workshops',
+        title: "Complete portfolio website tutorial",
+        text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    },
+    {
+        img: "/../public/images/3.jpg",
+        type:'Tech Workshops',
+        title: "Bootstrap 5 Complete tutorial",
+        text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    },
+    {
+        img: "/../public/images/1.jpg",
+        type:'Tech Workshops',
+        title: "Tech Workshops",
+        text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    },
+    {
+        img: "/../public/images/2.jpg",
+        type:'Tech Workshops',
+        title: "Complete portfolio website tutorial",
+        text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    },
+    {
+        img: "/../public/images/3.jpg",
+        type:'Tech Workshops',
+        title: "Bootstrap 5 Complete tutorial",
+        text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    },
+    {
+        img: "/../public/images/4.jpg",
+        type:'Non Tech Workshops',
+        title: "Non Tech Workshops",
+        text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    },
+    {
+        img: "/../public/images/5.jpg",
+        type:'Non Tech Workshops',
+        title: "Tailwind CSS card design",
+        text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    },
+    {
+        img: "/../public/images/6.jpg",
+        type:'Non Tech Workshops',
+        title: "Reactjs tutorial for beginner",
+        text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    },
+    {
+        img: "/../public/images/4.jpg",
+        type:'Non Tech Workshops',
+        title: "Non Tech Workshops",
+        text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    },
+    {
+        img: "/../public/images/5.jpg",
+        type:'Non Tech Workshops',
+        title: "Tailwind CSS card design",
+        text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    },
+    {
+        img: "/../public/images/6.jpg",
+        type:'Non Tech Workshops',
+        title: "Reactjs tutorial for beginner",
+        text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    },
+    {
+        img: "/../public/images/7.jpg",
+        type:'Fun Events',
+        title: "Fun Events",
+        text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    },
+    {
+        img: "/../public/images/8.jpg",
+        type:'Fun Events',
+        title: "Create a website using Tailwind CSS",
+        text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    },
+    {
+        img: "/../public/images/9.jpg",
+        type:'Fun Events',
+        title: "Create an one page website using ReactJS",
+        text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    },
+    {
+        img: "/../public/images/7.jpg",
+        type:'Fun Events',
+        title: "Fun Events",
+        text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    },
+    {
+        img: "/../public/images/8.jpg",
+        type:'Fun Events',
+        title: "Create a website using Tailwind CSS",
+        text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    },
+    {
+        img: "/../public/images/9.jpg",
+        type:'Fun Events',
+        title: "Create an one page website using ReactJS",
+        text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    }
+]
