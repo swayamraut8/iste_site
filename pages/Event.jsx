@@ -18,7 +18,7 @@ const Event = () => {
   return (
     <>
       <Layout title="Home">
-        <div className="control-container lg:w-11/12 ml-24 mt-5 p-2 inline-flex justify-between rounded-sm ">
+        <div className="control-container w-11/12 ml-24 mt-5 p-2 inline-flex justify-between rounded-sm ">
           {items.map((item, index) => {
             return (
               <div
