@@ -17,7 +17,9 @@ const Navbar = () => {
             alt="ISTE_Logo"
             className="w-16 h-16 object-cover rounded-full cursor-pointer"
           />
-          <h1 className="text-4xl cursor-pointer pt-2 pl-3 ">ISTE-VESIT</h1>
+          <h1 className="text-3xl cursor-pointer flex items-center ml-4">
+            ISTE-VESIT
+          </h1>
         </div>
 
         <div>
@@ -105,34 +107,34 @@ const Navbar = () => {
                 Let's connect
               </p>
               <div className="flex items-center justify-between my-4 w-full sm:w-[80%]">
-              <Link
-            href="https://github.com/ISTE-VESIT-ORG"
-            className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300"
-            target="_blank"
-          >
-            <FaGithub size={18} />
-          </Link>
-          <Link
-            href="https://www.instagram.com/iste_vesit/"
-            className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300"
-            target="_blank"
-          >
-            <FaInstagram size={18} />
-          </Link>
-          <Link
-            href="https://twitter.com/iste_vesit"
-            className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300"
-            target="_blank"
-          >
-            <FaTwitter size={18} />
-          </Link>
-          <Link
-            href="https://www.linkedin.com/company/iste-vesit/mycompany/"
-            className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300"
-            target="_blank"
-          >
-            <FaLinkedin size={18} />
-          </Link>
+                <Link
+                  href="https://github.com/ISTE-VESIT-ORG"
+                  className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300"
+                  target="_blank"
+                >
+                  <FaGithub size={18} />
+                </Link>
+                <Link
+                  href="https://www.instagram.com/iste_vesit/"
+                  className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300"
+                  target="_blank"
+                >
+                  <FaInstagram size={18} />
+                </Link>
+                <Link
+                  href="https://twitter.com/iste_vesit"
+                  className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300"
+                  target="_blank"
+                >
+                  <FaTwitter size={18} />
+                </Link>
+                <Link
+                  href="https://www.linkedin.com/company/iste-vesit/mycompany/"
+                  className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300"
+                  target="_blank"
+                >
+                  <FaLinkedin size={18} />
+                </Link>
               </div>
             </div>
           </div>
