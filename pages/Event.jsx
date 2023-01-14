@@ -49,7 +49,7 @@ const Event = () => {
                       <div className="absolute inset-0 bg-slate-400 rounded-xl">
                         <Image
                           className="h-full w-full rounded-xl object-cover shadow-xl shadow-black/40"
-                          src={"/../public/images/tailwind.jpeg"}
+                          src={card.img}
                           width={400}
                           height={400}
                           alt="Post image"
@@ -59,10 +59,10 @@ const Event = () => {
                             <h3 className="text-white pb-3">
                               {card.title}
                             </h3>
-                            <p className="text-white pb-5">Workshop content</p>
+                            <p className="text-white pb-5">Event content</p>
                             <Link
                               href={"https://www.instagram.com/p/CmPK5WUPWh6/"}
-                              className="rounded-xl p-2 bg-white hover:cursor-pointer hover:text-black border-white"
+                              className="rounded-xl p-2 pb-3 bg-white hover:cursor-pointer hover:text-black border-white"
                             >
                               Check event
                             </Link>
