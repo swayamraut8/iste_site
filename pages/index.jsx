@@ -4,5 +4,5 @@ import Layout from "../components/Layout";
 const inter = Inter({ subsets: ["latin"] });
 
 export default function Home() {
-  return <Layout title="Home"></Layout>;
+  return <Layout title="ISTE-VESIT | Home"></Layout>;
 }

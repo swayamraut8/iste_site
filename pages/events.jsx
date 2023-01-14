@@ -7,8 +7,8 @@ import { useEffect, useId, useState } from "react";
 import { motion } from "framer-motion";
 
 const Event = () => {
-  const items = ["Tech Workshops", "Non Tech Workshops", "Fun Events"];
-  const [currentIndex, setCurrentIndex] = useState(1);
+  const items = ["Tech Workshops", "Non Tech", "Fun Events"];
+  const [currentIndex, setCurrentIndex] = useState(0);
   const id = useId();
   const onChange = (index, value) => console.log(index, value);
   useEffect(() => {
@@ -17,7 +17,7 @@ const Event = () => {
 
   return (
     <>
-      <Layout title="Home">
+      <Layout title="ISTE-VESIT | Events">
         <div className="control-container w-11/12 ml-24 mt-5 p-2 inline-flex justify-between rounded-sm ">
           {items.map((item, index) => {
             return (
@@ -62,7 +62,7 @@ const Event = () => {
                             <p className="text-white pb-5">Event content</p>
                             <Link
                               href={"https://www.instagram.com/p/CmPK5WUPWh6/"}
-                              className="rounded-xl p-2 pb-3 bg-white hover:cursor-pointer hover:text-black border-white"
+                              className="rounded-xl p-2 pb-3 hover:bg-white hover:border-black border-white border bg-black hover:cursor-pointer text-white hover:text-black"
                             >
                               Check event
                             </Link>
