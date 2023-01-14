@@ -14,7 +14,7 @@ const Layout = ({ title, content, children }) => {
           href="http://istevesit.org/static/media/iste_blue.13e6535d.png"
         />
       </Head>
-      <div>
+      <div className='scroll-smooth'>
         <Navbar />
         {children}
         <Footer />
