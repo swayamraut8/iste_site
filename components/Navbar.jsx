@@ -35,14 +35,14 @@ const Navbar = () => {
             <Link href="/">
               <li className="font-bold ml-10 text-md uppercase">About</li>
             </Link>
-            <Link href="/">
-              <li className="font-bold ml-10 text-md uppercase">Skills</li>
+            <Link href="/events">
+              <li className="font-bold ml-10 text-md uppercase">Events</li>
             </Link>
-            <Link href="/">
-              <li className="font-bold ml-10 text-md uppercase">Projects</li>
+            <Link href="/council">
+              <li className="font-bold ml-10 text-md uppercase">Council</li>
             </Link>
-            <Link href="/">
-              <li className="font-bold ml-10 text-md uppercase">Contact</li>
+            <Link href="/timeline">
+              <li className="font-bold ml-10 text-md uppercase">Timeline</li>
             </Link>
           </ul>
           <div onClick={handleNav} className="md:hidden">
@@ -92,14 +92,14 @@ const Navbar = () => {
               <Link href="">
                 <li className="py-4 text-md">About</li>
               </Link>
-              <Link href="">
-                <li className="py-4 text-md">Skills</li>
+              <Link href="/events">
+                <li className="py-4 text-md">Events</li>
               </Link>
-              <Link href="">
-                <li className="py-4 text-md">Projects</li>
+              <Link href="/council">
+                <li className="py-4 text-md">Council</li>
               </Link>
-              <Link href="">
-                <li className="py-4 text-md">Contact</li>
+              <Link href="/timeline">
+                <li className="py-4 text-md">Timeline</li>
               </Link>
             </ul>
             <div className="pt-[40%]">
