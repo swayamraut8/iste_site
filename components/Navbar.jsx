@@ -28,7 +28,7 @@ const Navbar = () => {
                         Home
                     </Link> */}
             <Link href="/">
-              <li className="font-bold ml-10 text-md uppercase hover:scale-125 hover:bg-gray-700 hover:text-white">
+              <li className="font-bold ml-10 text-md uppercase">
                 Home
               </li>
             </Link>
