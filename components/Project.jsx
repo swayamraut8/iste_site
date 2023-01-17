@@ -28,7 +28,7 @@ const Project = () => {
                     <div className="absolute inset-0 opacity-0 hover:opacity-80 rounded-xl transition-opacity hover:cursor-auto bg-black/80">
                       <div className="mt-32 opacity-100 text-center">
                         <h3 className="text-white pb-3">{card.title}</h3>
-                        <p className="text-white pb-5">Event content</p>
+                        <p className="text-white pb-5">{card.text}</p>
                         <Link
                           href={"https://www.instagram.com/p/CmPK5WUPWh6/"}
                           className="rounded-xl p-2 pb-3 hover:bg-white hover:border-black border-white border bg-black hover:cursor-pointer text-white hover:text-black"
