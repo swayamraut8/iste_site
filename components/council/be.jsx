@@ -1,15 +1,28 @@
 import Card from "./Card";
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
+import { useState } from "react";
 
 export default function BE() {
+    const [heads, setHeads] = useState(false);
+    const [tech, setTech] = useState(false);
+    const [ops, setOps] = useState(false);
+    const [graphics, setGraphics] = useState(false);
     return (
           <div>
               <Tabs>
                   <TabList>
-                      <Tab className='float-left bg-gray-800 hover:bg-gray-600 hover:scale-95 w-1/4 py-2 mt-8 rounded-l-xl'>Heads</Tab>
-                      <Tab className='float-left bg-gray-800 hover:bg-gray-600 hover:scale-95 w-1/4 py-2 mt-8'>Tech</Tab>
-                      <Tab className='float-left bg-gray-800 hover:bg-gray-600 hover:scale-95 w-1/4 py-2 mt-8'>Operations</Tab>
-                      <Tab className='float-left bg-gray-800 hover:bg-gray-600 hover:scale-95 w-1/4 py-2 mt-8 rounded-r-xl'>Graphics</Tab>
+                      <Tab className={`${heads && "animate-clickbe"} float-left bg-gray-800 hover:bg-gray-700 w-1/4 py-2 mt-8 rounded-l-xl`} onClick={() => {setHeads(true);}} onAnimationEnd={() => setHeads(false)}>
+                          Heads
+                      </Tab>
+                      <Tab className={`${tech && "animate-clickbe"} float-left bg-gray-800 hover:bg-gray-700 w-1/4 py-2 mt-8`} onClick={() => {setTech(true);}} onAnimationEnd={() => setTech(false)}>
+                          Tech
+                      </Tab>
+                      <Tab className={`${ops && "animate-clickbe"} float-left bg-gray-800 hover:bg-gray-700 w-1/4 py-2 mt-8`} onClick={() => {setOps(true);}} onAnimationEnd={() => setOps(false)}>
+                          Operations
+                      </Tab>
+                      <Tab className={`${graphics && "animate-clickbe"} float-left bg-gray-800 hover:bg-gray-700 w-1/4 py-2 mt-8 rounded-r-xl`} onClick={() => {setGraphics(true);}} onAnimationEnd={() => setGraphics(false)}>
+                          Graphics
+                      </Tab>
                   </TabList>
                   <br/><br/><br/><br/><br/><br/><br/><br/><br/>
                   <TabPanel>
