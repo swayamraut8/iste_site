@@ -40,7 +40,7 @@ export default function Home() {
         </div>
       </div>
       <Domains />
-      <Project />
+      {/* <Project /> */}
       <ContactForm />
     </Layout>
   );
