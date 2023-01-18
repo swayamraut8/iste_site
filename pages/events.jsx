@@ -22,6 +22,7 @@ const Event = () => {
           {items.map((item, index) => {
             return (
               <div
+                key={item}
                 className="control-item"
                 onClick={() => setCurrentIndex(index)}
               >
@@ -43,35 +44,44 @@ const Event = () => {
             <div className="grid xl:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 gap-x-24 gap-y-10">
               {cardList.map((card) => (
                 <>
-                {card.type==items[currentIndex]?<div className="flex flex-col bg-slate-100 justify-center">
-                  <div className="group h-72 w-72 sm:h-96 sm:w-96">
-                    <div className="relative h-full w-full rounded-xl shadow-xl transition-all duration-500 ">
-                      <div className="absolute inset-0 bg-slate-400 rounded-xl">
-                        <Image
-                          className="h-full w-full rounded-xl object-cover shadow-xl shadow-black/40"
-                          src={card.img}
-                          width={400}
-                          height={400}
-                          alt="Post image"
-                        />
-                        <div className="absolute inset-0 opacity-0 hover:opacity-80 rounded-xl transition-opacity hover:cursor-auto bg-black/80">
-                          <div className="mt-32 opacity-100 text-center">
-                            <h3 className="text-white pb-3">
-                              {card.title}
-                            </h3>
-                            <p className="text-white pb-5">Event content</p>
-                            <Link
-                              href={"https://www.instagram.com/p/CmPK5WUPWh6/"}
-                              className="rounded-xl p-2 pb-3 hover:bg-white hover:border-black border-white border bg-black hover:cursor-pointer text-white hover:text-black"
-                            >
-                              Check event
-                            </Link>
+                  {card.type == items[currentIndex] ? (
+                    <div
+                      key={card.title}
+                      className="flex flex-col bg-slate-100 justify-center"
+                    >
+                      <div className="group h-72 w-72 sm:h-96 sm:w-96">
+                        <div className="relative h-full w-full rounded-xl shadow-xl transition-all duration-500 ">
+                          <div className="absolute inset-0 bg-slate-400 rounded-xl">
+                            <Image
+                              className="h-full w-full rounded-xl object-cover shadow-xl shadow-black/40"
+                              src={card.img}
+                              width={400}
+                              height={400}
+                              alt="Post image"
+                            />
+                            <div className="absolute inset-0 opacity-0 hover:opacity-80 rounded-xl transition-opacity hover:cursor-auto bg-black/80">
+                              <div className="mt-32 opacity-100 text-center">
+                                <h3 className="text-white pb-3">
+                                  {card.title}
+                                </h3>
+                                <p className="text-white pb-5">Event content</p>
+                                <Link
+                                  href={
+                                    "https://www.instagram.com/p/CmPK5WUPWh6/"
+                                  }
+                                  className="rounded-xl p-2 pb-3 hover:bg-white hover:border-black border-white border bg-black hover:cursor-pointer text-white hover:text-black"
+                                >
+                                  Check event
+                                </Link>
+                              </div>
+                            </div>
                           </div>
                         </div>
                       </div>
                     </div>
-                  </div>
-                </div>:''}
+                  ) : (
+                    ""
+                  )}
                 </>
               ))}
             </div>

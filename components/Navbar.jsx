@@ -28,9 +28,7 @@ const Navbar = () => {
                         Home
                     </Link> */}
             <Link href="/">
-              <li className="font-bold ml-10 text-md uppercase">
-                Home
-              </li>
+              <li className="font-bold ml-10 text-md uppercase">Home</li>
             </Link>
             <Link href="/">
               <li className="font-bold ml-10 text-md uppercase">About</li>
@@ -104,7 +102,7 @@ const Navbar = () => {
             </ul>
             <div className="pt-[40%]">
               <p className="uppercase tracking widest text-[#5651e5]">
-                Let's connect
+                Let&apos;s connect
               </p>
               <div className="flex items-center justify-between my-4 w-full sm:w-[80%]">
                 <Link

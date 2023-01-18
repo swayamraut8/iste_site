@@ -14,7 +14,7 @@ const Project = () => {
       <Carousel draggable={true} responsive={responsive} className="ml-24">
         {projectData.map((card) => (
           <>
-            <div className="flex flex-col bg-slate-100 justify-center">
+            <div className="flex flex-col justify-center">
               <div className="sm:px-auto group h-96 w-96">
                 <div className="m10 relative h-full w-full rounded-xl shadow-xl transition-all duration-500 ">
                   <div className="absolute inset-0 bg-slate-400 rounded-xl">
@@ -25,7 +25,7 @@ const Project = () => {
                       //   height={400}
                       alt="Post image"
                     />
-                    <div className="absolute inset-0 opacity-0 hover:opacity-80 rounded-xl transition-opacity hover:cursor-auto bg-black/80">
+                    <div className="absolute hover:rotate-x inset-0 opacity-0 hover:opacity-80 rounded-xl transition-opacity hover:cursor-auto bg-black/80">
                       <div className="mt-32 opacity-100 text-center">
                         <h3 className="text-white pb-3">{card.title}</h3>
                         <p className="text-white pb-5">{card.text}</p>
@@ -44,7 +44,6 @@ const Project = () => {
           </>
         ))}
       </Carousel>
-      ;
     </div>
   );
 };
