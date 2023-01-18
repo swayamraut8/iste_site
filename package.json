@@ -13,6 +13,7 @@
     "@emotion/styled": "^11.10.5",
     "@motionone/dom": "^10.15.5",
     "@next/font": "13.1.1",
+    "axios": "^1.2.2",
     "eslint": "8.31.0",
     "eslint-config-next": "13.1.1",
     "flowbite": "^1.6.2",
@@ -22,6 +23,7 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-icons": "^4.7.1",
+    "react-multi-carousel": "^2.8.2",
     "react-tabs": "^6.0.0"
   },
   "devDependencies": {
