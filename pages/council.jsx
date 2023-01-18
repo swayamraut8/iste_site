@@ -1,9 +1,9 @@
 import Layout from "../components/Layout";
 import Card from "../components/council/Card";
-import BE from "../components/council/be"
-import TE from "../components/council/te"
-import SE from "../components/council/se"
-import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
+import BE from "../components/council/be";
+import TE from "../components/council/te";
+import SE from "../components/council/se";
+import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
 import { useState } from "react";
 
 export default function Council() {
