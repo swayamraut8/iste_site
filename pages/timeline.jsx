@@ -23,7 +23,7 @@ const Timeline = () => {
     }
 
     return (
-      <div className="mt-6 sm:mt-0 sm:mb-12">
+      <div key={item.name} className="mt-6 sm:mt-0 sm:mb-12">
         <div className="flex flex-col sm:flex-row items-center">
           <div
             className={`flex ${cardPlace.justify} w-full mx-auto items-center`}
@@ -43,7 +43,12 @@ const Timeline = () => {
                 </div>
                 {item.desc}
                 <div className="flex justify-around mt-3">
-                  <a className="" target="_blank" href={item.github}>
+                  <a
+                    className=""
+                    target="_blank"
+                    rel="noreferrer"
+                    href={item.github}
+                  >
                     <Image
                       className="rounded-xl object-cover"
                       src="https://res.cloudinary.com/sarveshp46/image/upload/v1664520506/githubLogo_ebjezh.png"
@@ -52,7 +57,12 @@ const Timeline = () => {
                       alt="Github image"
                     />
                   </a>
-                  <a className="" target="_blank" href={item.instagram}>
+                  <a
+                    className=""
+                    target="_blank"
+                    rel="noreferrer"
+                    href={item.instagram}
+                  >
                     <Image
                       className="rounded-xl object-cover"
                       src="https://res.cloudinary.com/sarveshp46/image/upload/v1673757813/instagram_fynii0.png"

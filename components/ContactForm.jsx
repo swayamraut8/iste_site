@@ -152,7 +152,7 @@ const ContactForm = () => {
                   iste.vesit@ves.ac.in
                 </Link>
                 <p className="leading-normal my-2">
-                  Hashu Adwani Memorial Complex, Collector's Colony,
+                  Hashu Adwani Memorial Complex, Collector&apos;s Colony,
                   <br />
                   Chembur, Mumbai, Maharashtra - 400074
                 </p>
