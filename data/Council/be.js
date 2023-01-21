@@ -1,7 +1,7 @@
 export default [
   {
       name:"Varnit Batheja",
-      img:"../public/images/Council/TE/",
+      img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674287686/ISTECouncil/BE/Varnit_r2yxbk.jpg",
       position:"Chairperson",
       insta:"",
       linkedin:"",
@@ -9,7 +9,7 @@ export default [
   },
   {
       name:"Srushti Jagtap",
-      img:"../public/images/Council/TE/",
+      img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674287661/ISTECouncil/BE/Srushti_z6wzvt.jpg",
       position:"Co-Chairperson",
       insta:"",
       linkedin:"",
@@ -17,15 +17,15 @@ export default [
   },
   {
       name:"Mrunmayee Waingankar",
-      img:"../public/images/Council/TE/",
+      img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674287664/ISTECouncil/BE/Mrunmayee_Waingankar_zbzwwk.jpg",
       position:"Chief Executive Officer",
-      insta:"",
-      linkedin:"",
+      insta:"https://instagram.com/mrun_w?igshid=NTA5ZTk1NTc=",
+      linkedin:"https://www.linkedin.com/in/mrunmayee-waingankar-31838a1b9",
       github:""
   },
   {
       name:"Devansh Singh",
-      img:"../public/images/Council/TE/",
+      img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674287661/ISTECouncil/BE/Devansh_Singh_zozkpd.png",
       position:"Senior Treasurer",
       insta:"",
       linkedin:"",
@@ -33,7 +33,7 @@ export default [
   },
   {
       name:"Isha Gawde",
-      img:"../public/images/Council/TE/sarveshpatil.png",
+      img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674295110/ISTECouncil/BE/Isha_jofxpm.jpg",
       position:"Chief Marketing Officer",
       insta:"",
       linkedin:"",
@@ -41,7 +41,7 @@ export default [
   },
   {
       name:"Aamir Ansari",
-      img:"../public/images/Council/TE/",
+      img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674287680/ISTECouncil/BE/Aamir_Ansari_rkc16p.jpg",
       position:"Chief Technical Officer",
       insta:"",
       linkedin:"",
@@ -49,23 +49,23 @@ export default [
   },
   {
       name:"V Krishnasubramaniam",
-      img:"../public/images/Council/TE/",
+      img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674287663/ISTECouncil/BE/Krishna_oofgny.jpg",
       position:"Senior Technical Officer",
-      insta:"",
-      linkedin:"",
-      github:""
+      insta:"https://www.instagram.com/vkrishna2090/",
+      linkedin:"https://www.linkedin.com/in/krishnasubramaniam-v/",
+      github:"https://github.com/VKrishna2090"
   },
   {
       name:"Kusum Rohra",
-      img:"../public/images/Council/TE/",
+      img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674297471/ISTECouncil/BE/1_ujjidc.png",
       position:"Senior Technical Officer",
-      insta:"",
-      linkedin:"",
-      github:""
+      insta:"https://instagram.com/kusum_rohra",
+      linkedin:"https://www.linkedin.com/in/kusum-rohra",
+      github:"http://github.com/KUSUM24"
   },
   {
       name:"Khushboo Dalwani",
-      img:"../public/images/Council/TE/",
+      img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674287665/ISTECouncil/BE/Khushboo_Dalwani_ptnfba.webp",
       position:"Senior Technical Officer",
       insta:"",
       linkedin:"",
@@ -73,7 +73,7 @@ export default [
   },
   {
       name:"Khushboo Dhingra",
-      img:"../public/images/Council/TE/",
+      img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674297525/ISTECouncil/BE/2_gflo6f.png",
       position:"Senior Technical Officer",
       insta:"",
       linkedin:"",
@@ -81,7 +81,7 @@ export default [
   },
   {
       name:"Gauri Mahajan",
-      img:"../public/images/Council/TE/",
+      img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674287684/ISTECouncil/BE/Gauri_Mahajan_amd69w.jpg",
       position:"Chief Operations Officer",
       insta:"",
       linkedin:"",
@@ -89,15 +89,15 @@ export default [
   },
   {
       name:"Minal Katware",
-      img:"../public/images/Council/TE/",
+      img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674287665/ISTECouncil/BE/Minal_Katware_y7ravs.png",
       position:"Senior Operations Officer",
       insta:"",
       linkedin:"",
       github:""
   },
   {
-      name:"Shrey Panchamia",
-      img:"../public/images/Council/TE/",
+      name:"Nidhi Thakkar",
+      img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674296004/ISTECouncil/BE/Nidhi_c8edj1.jpg",
       position:"Senior Operations Officer",
       insta:"",
       linkedin:"",
@@ -105,7 +105,7 @@ export default [
   },
   {
       name:"Nafees Akhter",
-      img:"../public/images/Council/TE/",
+      img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674296427/ISTECouncil/BE/Nafees__cultpn.jpg",
       position:"Senior Graphics Officer",
       insta:"",
       linkedin:"",
@@ -113,15 +113,15 @@ export default [
   },
   {
       name:"Swarali Patil",
-      img:"../public/images/Council/TE/",
+      img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674287663/ISTECouncil/BE/Swarali_Patil_fwqn1q.jpg",
       position:"Senior Graphics Officer",
-      insta:"",
-      linkedin:"",
-      github:""
+      insta:"https://www.instagram.com/swarali.21/",
+      linkedin:"https://www.linkedin.com/in/swarali-patil-b543b2214/",
+      github:"https://github.com/SwaraliPatil21"
   },
   {
       name:"Jisha Philip",
-      img:"../public/images/Council/TE/",
+      img:"",
       position:"Senior Graphics Officer",
       insta:"",
       linkedin:"",
@@ -129,7 +129,7 @@ export default [
   },
   {
       name:"Shrusti Govindwar",
-      img:"../public/images/Council/TE/",
+      img:"",
       position:"Senior Graphics Officer",
       insta:"",
       linkedin:"",

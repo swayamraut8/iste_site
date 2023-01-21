@@ -58,31 +58,33 @@ export default function TE() {
               </TabPanel>
               <TabPanel>
                   <section className="text-gray-400 bg-gray-900 body-font pt-16 mt-8">
-                      <div className="grid justify-center md:grid-cols-2 lg:grid-cols-3 gap-5 lg:gap-7 my-10">
+                      <div className="grid justify-center md:grid-cols-2 lg:grid-cols-4 gap-5 lg:gap-7 my-10">
                           <Card name={data[11].name} position={data[11].position} image={data[11].img} insta={data[11].insta} linkedin={data[11].linkedin} github={data[11].github} />
                           <Card name={data[12].name} position={data[12].position} image={data[12].img} insta={data[12].insta} linkedin={data[12].linkedin} github={data[12].github} />
                           <Card name={data[13].name} position={data[13].position} image={data[13].img} insta={data[13].insta} linkedin={data[13].linkedin} github={data[13].github} />
-                      </div>
-                      <div className="grid justify-center md:grid-cols-2 lg:grid-cols-2 gap-5 lg:gap-7 my-10">
                           <Card name={data[14].name} position={data[14].position} image={data[14].img} insta={data[14].insta} linkedin={data[14].linkedin} github={data[14].github} />
+                      </div>
+                      <div className="grid justify-center md:grid-cols-2 lg:grid-cols-3 gap-5 lg:gap-7 my-10">
                           <Card name={data[15].name} position={data[15].position} image={data[15].img} insta={data[15].insta} linkedin={data[15].linkedin} github={data[15].github} />
+                          <Card name={data[16].name} position={data[16].position} image={data[16].img} insta={data[16].insta} linkedin={data[16].linkedin} github={data[16].github} />
+                          <Card name={data[17].name} position={data[17].position} image={data[17].img} insta={data[17].insta} linkedin={data[17].linkedin} github={data[17].github} />
                       </div>
                   </section>
               </TabPanel>
               <TabPanel>
                   <section className="text-gray-400 bg-gray-900 body-font pt-16 mt-8">
                       <div className="grid justify-center md:grid-cols-2 lg:grid-cols-3 gap-5 lg:gap-7 my-10">
-                          <Card name={data[16].name} position={data[16].position} image={data[16].img} insta={data[16].insta} linkedin={data[16].linkedin} github={data[16].github} />
-                          <Card name={data[17].name} position={data[17].position} image={data[17].img} insta={data[17].insta} linkedin={data[17].linkedin} github={data[17].github} />
                           <Card name={data[18].name} position={data[18].position} image={data[18].img} insta={data[18].insta} linkedin={data[18].linkedin} github={data[18].github} />
+                          <Card name={data[19].name} position={data[19].position} image={data[19].img} insta={data[19].insta} linkedin={data[19].linkedin} github={data[19].github} />
+                          <Card name={data[20].name} position={data[20].position} image={data[20].img} insta={data[20].insta} linkedin={data[20].linkedin} github={data[20].github} />
                       </div>
                   </section>
               </TabPanel>
               <TabPanel>
                   <section className="text-gray-400 bg-gray-900 body-font pt-16 mt-8">
                       <div className="grid justify-center md:grid-cols-2 lg:grid-cols-2 gap-5 lg:gap-7 my-10">
-                          <Card name={data[19].name} position={data[19].position} image={data[19].img} insta={data[19].insta} linkedin={data[19].linkedin} github={data[19].github} />
-                          <Card name={data[20].name} position={data[20].position} image={data[20].img} insta={data[20].insta} linkedin={data[20].linkedin} github={data[20].github} />
+                          <Card name={data[21].name} position={data[21].position} image={data[21].img} insta={data[21].insta} linkedin={data[21].linkedin} github={data[21].github} />
+                          <Card name={data[22].name} position={data[22].position} image={data[22].img} insta={data[22].insta} linkedin={data[22].linkedin} github={data[22].github} />
                       </div>
                   </section>
               </TabPanel>
