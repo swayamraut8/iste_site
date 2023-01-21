@@ -6,7 +6,7 @@ const Card = (props) => {
             <div className="flex flex-wrap justify-center">
               <div className="p-4 lg:w-4/5 md:w-full">
                 <div className="h-full flex flex-col items-center text-center">
-                  <img src={props.image} alt="Team" className="flex-shrink-0 rounded-full w-48 h-48 object-cover object-center mb-4"/>
+                  <img src={props.image} alt="Member" className="flex-shrink-0 rounded-full w-48 h-48 object-cover object-center mb-4"/>
                   <div className="w-full">
                     <h2 className="title-font font-medium text-lg text-white">{props.name}</h2>
                     <h3 className="text-gray-500 mb-3">{props.position}</h3>
