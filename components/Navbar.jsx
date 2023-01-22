@@ -30,9 +30,6 @@ const Navbar = () => {
             <Link href="/">
               <li className="font-bold ml-10 text-md uppercase">Home</li>
             </Link>
-            <Link href="/">
-              <li className="font-bold ml-10 text-md uppercase">About</li>
-            </Link>
             <Link href="/events">
               <li className="font-bold ml-10 text-md uppercase">Events</li>
             </Link>
@@ -86,9 +83,6 @@ const Navbar = () => {
             <ul className="uppercase font-bold">
               <Link href="">
                 <li className="py-4 text-md">Home</li>
-              </Link>
-              <Link href="">
-                <li className="py-4 text-md">About</li>
               </Link>
               <Link href="/events">
                 <li className="py-4 text-md">Events</li>
