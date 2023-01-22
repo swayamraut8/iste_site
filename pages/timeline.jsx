@@ -285,7 +285,6 @@ const Timeline = () => {
           <div className="relative text-gray-700 antialiased text-sm font-semibold">
             {/* <!-- Vertical bar running through middle --> */}
             <div className="hidden sm:block w-1 bg-slate-400 absolute h-full left-1/2 transform -translate-x-1/2"></div>
-
             {timelineList}
           </div>
         </div>
