@@ -12,7 +12,7 @@ export default function Home() {
     <Layout title="Home">
       <div className="bg-neutral-800 relative w-196 h-196">
         <Image
-          src={"/../public/images/vesit_bg.jpg"}
+          src={"https://res.cloudinary.com/dyn3rj4lh/image/upload/v1674063968/Website-2022/images/vesit_bg_viudgv.jpg"}
           width={700}
           height={700}
           alt="Post image"
