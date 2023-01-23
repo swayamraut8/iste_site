@@ -6,10 +6,10 @@ const Card = (props) => {
             <div className="flex flex-wrap justify-center">
               <div className="p-4 lg:w-4/5 md:w-full">
                 <div className="h-full flex flex-col items-center text-center">
-                  <img src={props.image} alt="Member" className="flex-shrink-0 rounded-full w-48 h-48 object-cover object-center mb-4"/>
+                  <img src={props.image} alt="Member" className="drop-shadow-2xl flex-shrink-0 rounded-3xl w-48 h-48 object-cover object-center mb-4"/>
                   <div className="w-full">
-                    <h2 className="title-font font-medium text-lg text-white">{props.name}</h2>
-                    <h3 className="text-gray-500 mb-3">{props.position}</h3>
+                    <h2 className="title-font font-bold text-lg">{props.name}</h2>
+                    <h3 className="mb-3 font-medium">{props.position}</h3>
                     <span className="inline-flex">
                       <a className="ml-2 text-gray-700" href={props.insta}>
                         <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-5 h-5" viewBox="0 0 24 24">

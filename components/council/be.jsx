@@ -12,22 +12,22 @@ export default function BE() {
           <div>
               <Tabs>
                   <TabList>
-                      <Tab className={`${heads && "animate-clickbe"} float-left bg-gray-800 hover:bg-gray-700 w-1/4 py-2 mt-8 rounded-l-xl`} onClick={() => {setHeads(true);}} onAnimationEnd={() => setHeads(false)}>
+                      <Tab className={`${heads && "animate-clickbe"} float-left text-slate-200 bg-zinc-900 hover:bg-zinc-700 w-1/4 py-2 mt-8 rounded-l-xl`} onClick={() => {setHeads(true);}} onAnimationEnd={() => setHeads(false)}>
                           Heads
                       </Tab>
-                      <Tab className={`${tech && "animate-clickbe"} float-left bg-gray-800 hover:bg-gray-700 w-1/4 py-2 mt-8`} onClick={() => {setTech(true);}} onAnimationEnd={() => setTech(false)}>
+                      <Tab className={`${tech && "animate-clickbe"} float-left text-slate-200 bg-zinc-900 hover:bg-zinc-700 w-1/4 py-2 mt-8`} onClick={() => {setTech(true);}} onAnimationEnd={() => setTech(false)}>
                           Tech
                       </Tab>
-                      <Tab className={`${ops && "animate-clickbe"} float-left bg-gray-800 hover:bg-gray-700 w-1/4 py-2 mt-8`} onClick={() => {setOps(true);}} onAnimationEnd={() => setOps(false)}>
+                      <Tab className={`${ops && "animate-clickbe"} float-left text-slate-200 bg-zinc-900 hover:bg-zinc-700 w-1/4 py-2 mt-8`} onClick={() => {setOps(true);}} onAnimationEnd={() => setOps(false)}>
                           Operations
                       </Tab>
-                      <Tab className={`${graphics && "animate-clickbe"} float-left bg-gray-800 hover:bg-gray-700 w-1/4 py-2 mt-8 rounded-r-xl`} onClick={() => {setGraphics(true);}} onAnimationEnd={() => setGraphics(false)}>
+                      <Tab className={`${graphics && "animate-clickbe"} float-left text-slate-200 bg-zinc-900 hover:bg-zinc-700 w-1/4 py-2 mt-8 rounded-r-xl`} onClick={() => {setGraphics(true);}} onAnimationEnd={() => setGraphics(false)}>
                           Graphics
                       </Tab>
                   </TabList>
                   <br/><br/><br/><br/><br/><br/><br/><br/><br/>
                   <TabPanel>
-                      <section className="text-gray-400 bg-gray-900 body-font pt-16">
+                      <section className="text-zinc-900 bg-gray-200 body-font pt-16">
                           <div className="grid justify-center md:grid-cols-1 lg:grid-cols-1 gap-5 lg:gap-7 my-10">
                               <Card name={data[0].name} position={data[0].position} image={data[0].img} insta={data[0].insta} linkedin={data[0].linkedin} github={data[0].github}/>
                           </div>
@@ -40,7 +40,7 @@ export default function BE() {
                       </section>
                   </TabPanel>
                   <TabPanel>
-                      <section className="text-gray-400 bg-gray-900 body-font pt-16">
+                      <section className="text-zinc-900 bg-gray-200 body-font pt-16">
                           <div className="grid justify-center md:grid-cols-1 lg:grid-cols-1 gap-5 lg:gap-7 my-10">
                               <Card name={data[5].name} position={data[5].position} image={data[5].img} insta={data[5].insta} linkedin={data[5].linkedin} github={data[5].github}/>
                           </div>
@@ -53,7 +53,7 @@ export default function BE() {
                       </section>
                   </TabPanel>
                   <TabPanel>
-                      <section className="text-gray-400 bg-gray-900 body-font pt-16">
+                      <section className="text-zinc-900 bg-gray-200 body-font pt-16">
                           <div className="grid justify-center md:grid-cols-1 lg:grid-cols-1 gap-5 lg:gap-7 my-10">
                               <Card name={data[10].name} position={data[10].position} image={data[10].img} insta={data[10].insta} linkedin={data[10].linkedin} github={data[10].github}/>
                           </div>
@@ -64,7 +64,7 @@ export default function BE() {
                       </section>
                   </TabPanel>
                   <TabPanel>
-                      <section className="text-gray-400 bg-gray-900 body-font pt-16 mt-8">
+                      <section className="text-zinc-900 bg-gray-200 body-font pt-16 mt-8">
                           <div className="grid justify-center md:grid-cols-2 lg:grid-cols-4 gap-5 lg:gap-7 my-10">
                               <Card name={data[13].name} position={data[13].position} image={data[13].img} insta={data[13].insta} linkedin={data[13].linkedin} github={data[13].github}/>
                               <Card name={data[14].name} position={data[14].position} image={data[14].img} insta={data[14].insta} linkedin={data[14].linkedin} github={data[14].github}/>
