@@ -9,7 +9,7 @@ const Navbar = () => {
     setNav(!nav);
   };
   return (
-    <div className="relative w-full h-20  shadow-xl z-[100]">
+    <div className="relative w-full h-20 shadow-xl z-[100]">
       <div className="flex justify-between items-center w-full h-full px-7 2xl:px-16">
         <Link
           href="/"
