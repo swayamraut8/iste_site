@@ -144,7 +144,7 @@ const Timeline = () => {
             <div className={`w-full sm:w-1/2 ${cardPlace.sm}`}>
               <div class="p-4 items-center justify-center rounded-xl group sm:flex space-x-6 bg-white bg-opacity-50 shadow-xl hover:rounded-2xl">
                 <img
-                  class="mx-auto block w-5/12 h-50 rounded-lg"
+                  class="mx-auto block md:w-5/12 md:h-50 rounded-lg"
                   alt="art cover"
                   loading="lazy"
                   src={item.img}
@@ -281,7 +281,7 @@ const Timeline = () => {
   return (
     <Layout title="Timeline">
       <div className="min-h-screen bg-slate-200 py-6 flex flex-col justify-center sm:py-12">
-        <div className="py-3 sm:max-w-6xl sm:mx-auto w-full px-2 sm:px-0">
+        <div className="py-3 sm:max-w-7xl sm:mx-auto w-full px-4 sm:px-0">
           <div className="relative text-gray-700 antialiased text-sm font-semibold">
             {/* <!-- Vertical bar running through middle --> */}
             <div className="hidden sm:block w-1 bg-slate-400 absolute h-full left-1/2 transform -translate-x-1/2"></div>

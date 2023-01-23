@@ -59,20 +59,48 @@ const Event = () => {
                               height={400}
                               alt="Post image"
                             />
-                            <div className="absolute inset-0 opacity-0 hover:opacity-80 rounded-xl transition-opacity hover:cursor-auto bg-black/80">
-                              <div className="mt-32 opacity-100 text-center">
+                            <div className="absolute inset-0 opacity-0 hover:opacity-80 rounded-xl transition-opacity hover:cursor-auto bg-black/80 flex items-center">
+                              <div className="opacity-100 text-center">
                                 <h3 className="text-white pb-3">
                                   {card.title}
                                 </h3>
-                                <p className="text-white pb-5">Event content</p>
-                                <Link
-                                  href={
-                                    "https://www.instagram.com/p/CmPK5WUPWh6/"
-                                  }
-                                  className="rounded-xl p-2 pb-3 hover:bg-white hover:border-black border-white border bg-black hover:cursor-pointer text-white hover:text-black"
-                                >
-                                  Check event
-                                </Link>
+                                <p className="text-white pb-5 px-4">
+                                  {card.desc}
+                                </p>
+                                <div class="flex justify-center space-x-2">
+                                  {card.github.length > 0 && (
+                                    <a
+                                      className="hover:opacity-70 transition-all"
+                                      target="_blank"
+                                      rel="noreferrer"
+                                      href={card.github}
+                                    >
+                                      <Image
+                                        className="rounded-xl object-cover"
+                                        src="https://res.cloudinary.com/sarveshp46/image/upload/v1674477865/icons8-github-30_gvdueq.png"
+                                        width={25}
+                                        height={25}
+                                        alt="Github image"
+                                      />
+                                    </a>
+                                  )}
+                                  {card.instagram.length > 0 && (
+                                    <a
+                                      className="hover:opacity-70 transition-all"
+                                      target="_blank"
+                                      rel="noreferrer"
+                                      href={card.instagram}
+                                    >
+                                      <Image
+                                        className="rounded-xl object-cover"
+                                        src="https://res.cloudinary.com/sarveshp46/image/upload/v1673757813/instagram_fynii0.png"
+                                        width={25}
+                                        height={25}
+                                        alt="Github image"
+                                      />
+                                    </a>
+                                  )}
+                                </div>
                               </div>
                             </div>
                           </div>

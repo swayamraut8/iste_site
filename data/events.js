@@ -5,7 +5,7 @@ export default [
     title: "Twitter Clone",
     instagram: "https://www.instagram.com/p/CmPK5WUPWh6/",
     github: "https://github.com/ISTE-VESIT-ORG/twitter-clone",
-    desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    desc: "Twitter Clone Workshop is a hands-on event that teaches participants how to create their own version of the popular social media platform. The workshop covers topics such as ReactJs, Tailwind CSS, SPA, Components and props.",
     date: "19th Dec, 2022",
   },
   {
@@ -14,7 +14,7 @@ export default [
     title: "Figma Workshop",
     instagram: "https://www.instagram.com/p/Cl83xOEojUZ/",
     github: "",
-    desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    desc: "Figma workshop is a hands-on training session that teaches participants how to use Figma, a collaborative design tool for creating and editing web and mobile designs. The workshop covers basic and advanced features, such as prototyping and design systems.",
     date: "12th Dec, 2022",
   },
   {
@@ -32,7 +32,7 @@ export default [
     title: "Gitway to Opensource",
     instagram: "https://www.instagram.com/p/ChfZYvlve5Z/",
     github: "https://github.com/ISTE-VESIT-ORG/Gitway-OpenSource",
-    desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    desc: "This workshop focuses on what is version control, introduction to Git and GitHub, how to manage your projects with version control and most importantly what are Open Source Contributions.",
     date: "24th Aug, 2022",
   },
   {
@@ -41,7 +41,7 @@ export default [
     title: "AR Workshop",
     instagram: "https://www.instagram.com/p/CgqiyO2qTtY/",
     github: "https://github.com/ISTE-VESIT-ORG/AR-Workshop",
-    desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    desc: "The AR workshop is an interactive session where attendees will learn about the AR/VR and its applications. They will also have the opportunity to create their own AR experiences using Unity. The workshop aims to educate and inspire participants to explore new possibilities with AR.",
     date: "3rd Aug, 2022",
   },
   {
@@ -56,7 +56,7 @@ export default [
   {
     img: "https://res.cloudinary.com/dyn3rj4lh/image/upload/v1674063966/Website-2022/images/dalaalFunEvent_bahavs.jpg",
     type: "Fun Events",
-    title: "Dalaal Street",
+    title: "Dalal Street",
     instagram: "https://www.instagram.com/p/CbsdsxlPFcp/",
     github: "",
     desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
@@ -77,7 +77,7 @@ export default [
     title: "Webinar on Study Abroad",
     instagram: "https://www.instagram.com/p/CbK0cg8q43X/",
     github: "",
-    desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    desc: "The webinar demonstrated the benefits and opportunities of studying abroad. Students discovered the various options available, how to apply, and tips for a successful career. ",
     date: "19th Mar, 2022",
   },
   {
@@ -86,7 +86,7 @@ export default [
     title: "Typescript Workshop",
     instagram: "https://www.instagram.com/p/Ca6TFnxK5lT/",
     github: "https://github.com/ISTE-VESIT-ORG/TypeScript-2022",
-    desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    desc: "A TypeScript workshop is a training session that focuses on teaching participants the basics and advanced features of the TypeScript programming language. It typically covers topics such as type annotations, interfaces, classes, and decorators.",
     date: "12th Mar, 2022",
   },
   {
@@ -95,7 +95,7 @@ export default [
     title: "Cloud Computing",
     instagram: "https://www.instagram.com/p/Cal4VxEK1jg/",
     github: "https://github.com/ISTE-VESIT-ORG/Cloud-Computing",
-    desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    desc: "The Cloud Computing Workshop is a training program designed to teach participants about the benefits and functionality of cloud computing technology. It covers topics such as cloud deployment on Microsoft Azure.",
     date: "3rd Mar, 2022",
   },
   {
@@ -113,7 +113,7 @@ export default [
     title: "Discord Bot Workshop",
     instagram: "https://www.instagram.com/p/CZtPN_Wq65Z/",
     github: "https://github.com/ISTE-VESIT-ORG/Discord-Bot-2022",
-    desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    desc: "Discord Bot Workshop is a workshop that teaches participants how to create and customize their own bots for the Discord platform. The workshop covers topics such as setting up a bot account, coding basics, and integrating features such as commands and user interactions.",
     date: "10th Feb, 2022",
   },
   {
@@ -122,7 +122,7 @@ export default [
     title: "Graphic Designing using Blender",
     instagram: "https://www.instagram.com/p/CZhR7BEK-Ff/",
     github: "",
-    desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    desc: "The Graphic Designing using Blender Workshop was a comprehensive training program that provided participants with the necessary skills and knowledge to create stunning graphics using the Blender software.",
     date: "6th Feb, 2022",
   },
   {
@@ -131,7 +131,7 @@ export default [
     title: "Campus2Corporate",
     instagram: "https://www.instagram.com/p/CYonLjfPBHH/",
     github: "",
-    desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    desc: "Campus2Corporate provided valuable insights and tips to students on how to prepare for job interviews and secure employment. The workshop featured placed students who shared their knowledge and experiences, and also provided opportunities for networking and mock interviews.",
     date: "22nd Jan, 2022",
   },
   {
@@ -140,7 +140,7 @@ export default [
     title: "E-Commerce using Shopify",
     instagram: "https://www.instagram.com/p/CYWwhW-vBKV/",
     github: "",
-    desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    desc: "The Shopify Workshop was a successful event where attendees learned about setting up and managing their own online store using Shopify. They were given hands-on guidance and tips for optimizing their e-commerce platform.",
     date: "8th Jan, 2022",
   },
   {
@@ -158,7 +158,7 @@ export default [
     title: "Rest API",
     instagram: "https://www.instagram.com/p/CUb9_noIizk/",
     github: "https://github.com/ISTE-VESIT-ORG/API-Development-2021",
-    desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    desc: "The Rest API Workshop provided attendees with an in-depth understanding of RESTful web services, including best practices and common pitfalls. Participants learned how to design and implement RESTful APIs and gained hands-on experience with various tools and frameworks.",
     date: "3rd Oct, 2021",
   },
 ];
