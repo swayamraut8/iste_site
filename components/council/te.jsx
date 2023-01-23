@@ -13,26 +13,26 @@ export default function TE() {
       <div>
           <Tabs>
               <TabList>
-                  <Tab className={`${heads && "animate-clickbe"} float-left bg-gray-800 hover:bg-gray-700 w-1/5 py-2 mt-8 rounded-l-xl`} onClick={() => {setHeads(true);}} onAnimationEnd={() => setHeads(false)}>
+                  <Tab className={`${heads && "animate-clickbe"} float-left text-slate-200 bg-zinc-900 hover:bg-zinc-700 w-1/5 py-2 mt-8 rounded-l-xl`} onClick={() => {setHeads(true);}} onAnimationEnd={() => setHeads(false)}>
                       Heads
                   </Tab>
-                  <Tab className={`${tech && "animate-clickbe"} float-left bg-gray-800 hover:bg-gray-700 w-1/5 py-2 mt-8`} onClick={() => {setTech(true);}} onAnimationEnd={() => setTech(false)}>
+                  <Tab className={`${tech && "animate-clickbe"} float-left text-slate-200 bg-zinc-900 hover:bg-zinc-700 w-1/5 py-2 mt-8`} onClick={() => {setTech(true);}} onAnimationEnd={() => setTech(false)}>
                       Tech
                   </Tab>
-                  <Tab className={`${ops && "animate-clickbe"} float-left bg-gray-800 hover:bg-gray-700 w-1/5 py-2 mt-8`} onClick={() => {setOps(true);}} onAnimationEnd={() => setOps(false)}>
+                  <Tab className={`${ops && "animate-clickbe"} float-left text-slate-200 bg-zinc-900 hover:bg-zinc-700 w-1/5 py-2 mt-8`} onClick={() => {setOps(true);}} onAnimationEnd={() => setOps(false)}>
                       Operations
                   </Tab>
-                  <Tab className={`${pro && "animate-clickbe"} float-left bg-gray-800 hover:bg-gray-700 w-1/5 py-2 mt-8`} onClick={() => {setPro(true);}} onAnimationEnd={() => setPro(false)}>
+                  <Tab className={`${pro && "animate-clickbe"} float-left text-slate-200 bg-zinc-900 hover:bg-zinc-700 w-1/5 py-2 mt-8`} onClick={() => {setPro(true);}} onAnimationEnd={() => setPro(false)}>
                       P.R.O
                   </Tab>
-                  <Tab className={`${graphics && "animate-clickbe"} float-left bg-gray-800 hover:bg-gray-700 w-1/5 py-2 mt-8 rounded-r-xl`} onClick={() => {setGraphics(true);}} onAnimationEnd={() => setGraphics(false)}>
+                  <Tab className={`${graphics && "animate-clickbe"} float-left text-slate-200 bg-zinc-900 hover:bg-zinc-700 w-1/5 py-2 mt-8 rounded-r-xl`} onClick={() => {setGraphics(true);}} onAnimationEnd={() => setGraphics(false)}>
                       Graphics
                   </Tab>
               </TabList>
               <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
               <TabPanel>
-                  <section className="text-gray-400 bg-gray-900 body-font pt-16 mt-8">
+                  <section className="text-zinc-900 bg-gray-200 body-font pt-16 mt-8">
                       <div className="grid justify-center md:grid-cols-2 lg:grid-cols-4 gap-5 lg:gap-7 my-10">
                           <Card name={data[0].name} position={data[0].position} image={data[0].img} insta={data[0].insta} linkedin={data[0].linkedin} github={data[0].github} />
                           <Card name={data[1].name} position={data[1].position} image={data[1].img} insta={data[1].insta} linkedin={data[1].linkedin} github={data[1].github} />
@@ -42,7 +42,7 @@ export default function TE() {
                   </section>
               </TabPanel>
               <TabPanel>
-                  <section className="text-gray-400 bg-gray-900 body-font pt-16 mt-8">
+                  <section className="text-zinc-900 bg-gray-200 body-font pt-16 mt-8">
                       <div className="grid justify-center md:grid-cols-2 lg:grid-cols-4 gap-5 lg:gap-7 my-10">
                           <Card name={data[4].name} position={data[4].position} image={data[4].img} insta={data[4].insta} linkedin={data[4].linkedin} github={data[4].github} />
                           <Card name={data[5].name} position={data[5].position} image={data[5].img} insta={data[5].insta} linkedin={data[5].linkedin} github={data[5].github} />
@@ -57,7 +57,7 @@ export default function TE() {
                   </section>
               </TabPanel>
               <TabPanel>
-                  <section className="text-gray-400 bg-gray-900 body-font pt-16 mt-8">
+                  <section className="text-zinc-900 bg-gray-200 body-font pt-16 mt-8">
                       <div className="grid justify-center md:grid-cols-2 lg:grid-cols-4 gap-5 lg:gap-7 my-10">
                           <Card name={data[11].name} position={data[11].position} image={data[11].img} insta={data[11].insta} linkedin={data[11].linkedin} github={data[11].github} />
                           <Card name={data[12].name} position={data[12].position} image={data[12].img} insta={data[12].insta} linkedin={data[12].linkedin} github={data[12].github} />
@@ -72,7 +72,7 @@ export default function TE() {
                   </section>
               </TabPanel>
               <TabPanel>
-                  <section className="text-gray-400 bg-gray-900 body-font pt-16 mt-8">
+                  <section className="text-zinc-900 bg-gray-200 body-font pt-16 mt-8">
                       <div className="grid justify-center md:grid-cols-2 lg:grid-cols-3 gap-5 lg:gap-7 my-10">
                           <Card name={data[18].name} position={data[18].position} image={data[18].img} insta={data[18].insta} linkedin={data[18].linkedin} github={data[18].github} />
                           <Card name={data[19].name} position={data[19].position} image={data[19].img} insta={data[19].insta} linkedin={data[19].linkedin} github={data[19].github} />
@@ -81,7 +81,7 @@ export default function TE() {
                   </section>
               </TabPanel>
               <TabPanel>
-                  <section className="text-gray-400 bg-gray-900 body-font pt-16 mt-8">
+                  <section className="text-zinc-900 bg-gray-200 body-font pt-16 mt-8">
                       <div className="grid justify-center md:grid-cols-2 lg:grid-cols-2 gap-5 lg:gap-7 my-10">
                           <Card name={data[21].name} position={data[21].position} image={data[21].img} insta={data[21].insta} linkedin={data[21].linkedin} github={data[21].github} />
                           <Card name={data[22].name} position={data[22].position} image={data[22].img} insta={data[22].insta} linkedin={data[22].linkedin} github={data[22].github} />
