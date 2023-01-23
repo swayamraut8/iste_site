@@ -19,9 +19,9 @@ export default [
       name:"Anushka Darure",
       img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674285506/ISTECouncil/TE/Anushka_D_uya1kf.png",
       position:"Operations Secretary",
-      insta:"",
-      linkedin:"",
-      github:""
+      insta:"#",
+      linkedin:"#",
+      github:"#"
   },
   {
       name:"Manas Lalwani",
@@ -35,41 +35,41 @@ export default [
       name:"Sarvesh Patil",
       img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674285512/ISTECouncil/TE/Sarvesh_p7rcaa.png",
       position:"Junior Technical Officer",
-      insta:"",
-      linkedin:"",
-      github:""
+      insta:"https://www.instagram.com/patil__sarvesh/",
+      linkedin:"https://www.linkedin.com/in/sarvesh2902/",
+      github:"https://github.com/sarvesh2902"
   },
   {
       name:"Atharva Bhoite",
       img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674285505/ISTECouncil/TE/Atharva_B_mbqgpj.png",
       position:"Junior Technical Officer",
-      insta:"",
-      linkedin:"",
-      github:""
+      insta:"https://www.instagram.com/atharva_bhoite_7/",
+      linkedin:"https://www.linkedin.com/in/atharva-bhoite-ba783a22b/",
+      github:"https://github.com/atharvabhoite7"
   },
   {
       name:"Bhargav Bodhankar",
       img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674285506/ISTECouncil/TE/Bhargav_qzjivn.png",
       position:"Junior Technical Officer",
-      insta:"",
-      linkedin:"",
-      github:""
+      insta:"https://instagram.com/bhargavbodhankar?igshid=NTA5ZTk1NTc=",
+      linkedin:"#",
+      github:"https://github.com/x-ordia"
   },
   {
       name:"Japneet Rajput",
       img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674285508/ISTECouncil/TE/Japneet_knr4p8.png",
       position:"Junior Technical Officer",
-      insta:"",
-      linkedin:"",
-      github:""
+      insta:"https://www.instagram.com/japneet.java/",
+      linkedin:"https://www.linkedin.com/in/japneetrajput/",
+      github:"https://github.com/JapneetRajput"
   },
   {
       name:"Surya Ganiga",
       img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674285513/ISTECouncil/TE/Surya_yyvaai.png",
       position:"Junior Technical Officer",
-      insta:"",
-      linkedin:"",
-      github:""
+      insta:"https://www.instagram.com/sattu._.supari/",
+      linkedin:"https://www.linkedin.com/in/surya-ganiga-ab402222a/",
+      github:"https://github.com/satts27"
   },
   {
       name:"Hrishikesh Patil",
@@ -83,9 +83,9 @@ export default [
       name:"Hrishikesh Kumbhar",
       img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674285508/ISTECouncil/TE/Hrishikesh_K_cvyjom.png",
       position:"Junior Technical Officer",
-      insta:"",
-      linkedin:"",
-      github:""
+      insta:"https://www.instagram.com/hrishikesh_kumbhar15/",
+      linkedin:"https://www.linkedin.com/in/hrishikesh-kumbhar-a86319206/",
+      github:"https://github.com/Hrishikesh156"
   },
   {
       name:"Upendra Falak",
@@ -101,7 +101,7 @@ export default [
       position:"Junior Operations Officer",
       insta:"https://www.instagram.com/shrey_267/",
       linkedin:" https://www.linkedin.com/in/shrey-panchamia-6821591ba",
-      github:""
+      github:"#"
   },
   {
       name:"Denzil Nelson",
@@ -115,25 +115,25 @@ export default [
       name:"Sahil Kodwani",
       img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674285510/ISTECouncil/TE/Sahil_acnxdt.png",
       position:"Junior Operations Officer",
-      insta:"",
-      linkedin:"",
-      github:""
+      insta:"https://instagram.com/sahilkodwani08?igshid=NTA5ZTk1NTc=",
+      linkedin:"https://www.linkedin.com/in/sahil-kodwani-b48959209",
+      github:"https://github.com/sahilkodwani08"
   },
   {
       name:"Diya Shah",
       img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674285508/ISTECouncil/TE/Diya_bsr2zr.png",
       position:"Junior Operations Officer",
-      insta:"",
-      linkedin:"",
-      github:""
+      insta:"https://instagram.com/diyashah_12?igshid=OGQ2MjdiOTE=",
+      linkedin:"https://www.linkedin.com/in/diya-shah-8663291b3/",
+      github:"https://github.com/diyashah-12"
   },
   {
       name: "Lavesh Lulla",
       img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674285510/ISTECouncil/TE/Lavesh_drjmi6.png",
       position:"JuniorOperationsOfficer",
-      insta:"",
-      linkedin:"",
-      github:""
+      insta:"https://instagram.com/lav_eshh?igshid=OGQ2MjdiOTE=",
+      linkedin:"https://www.linkedin.com/in/laveshlulla",
+      github:"https://github.com/dev-lavv"
   },
   {
       name:"Neeraj Chawla",
@@ -141,7 +141,7 @@ export default [
       position:"Junior Operations Officer",
       insta:"https://instagram.com/andronamyte_007?igshid=NTA5ZTk1NTc=",
       linkedin:"https://www.linkedin.com/in/neeraj-chawla-b449811ab",
-      github:""
+      github:"#"
   },
   {
       name:"Anushka Kulkarni",
@@ -155,17 +155,17 @@ export default [
       name:"Atharva Joshi",
       img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674285505/ISTECouncil/TE/Atharva_J_tqtp2x.png",
       position:"Public Relations Officer",
-      insta:"",
-      linkedin:"",
-      github:""
+      insta:"https://instagram.com/atharva.mp3?igshid=OGQ2MjdiOTE=",
+      linkedin:"#",
+      github:"#"
   },
   {
       name:"Khushi Mahamunkar",
       img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674285508/ISTECouncil/TE/Khushi_d0vuvb.png",
-      position:"",
-      insta:"",
-      linkedin:"Public Relations Officer",
-      github:""
+      position:"Public Relations Officer",
+      insta:"#",
+      linkedin:"https://www.linkedin.com/in/khushi-mahamunkar-9537111b8/",
+      github:"https://github.com/Khushipm"
   },
   {
       name:"Omkar Mahajan",
@@ -179,8 +179,8 @@ export default [
       name:"C.S. Lakshmi",
       img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674285511/ISTECouncil/TE/Lakshmi_agljn7.png",
       position:"Junior Graphics Officer",
-      insta:"",
-      linkedin:"",
-      github:""
+      insta:"https://instagram.com/_laksh.mi_01?igshid=MDM4ZDc5MmU=",
+      linkedin:"www.linkedin.com/in/c-s-lakshmi",
+      github:"#"
   },
 ]

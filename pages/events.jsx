@@ -67,7 +67,7 @@ const Event = () => {
                                 <p className="text-white pb-5 px-4">
                                   {card.desc}
                                 </p>
-                                <div class="flex justify-center space-x-2">
+                                <div className="flex justify-center space-x-2">
                                   {card.github.length > 0 && (
                                     <a
                                       className="hover:opacity-70 transition-all"
