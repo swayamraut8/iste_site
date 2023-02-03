@@ -5,7 +5,7 @@ import Image from "next/image";
 import Link from "next/link";
 const Domains = () => {
   return (
-    <div className=" px-4">
+    <div className="px-4">
       <div className="flex justify-center">
         <main className="container text-center py-16">
           <div className="flex flex-col text-center w-full mb-12">
@@ -30,9 +30,9 @@ const Domains = () => {
                         <h1 className="text-3xl font-bold">{card.title}</h1>
 
                         <p className="text-base mt-2">{card.text}</p>
-                        <button className="mt-2 rounded-md bg-neutral-800 py-1 px-2 text-sm hover:bg-neutral-900">
+                        {/* <button className="mt-2 rounded-md bg-neutral-800 py-1 px-2 text-sm hover:bg-neutral-900">
                           Read More
-                        </button>
+                        </button> */}
                       </div>
                     </div>
                   </div>

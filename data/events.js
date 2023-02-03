@@ -23,7 +23,7 @@ export default [
     title: "Chronicles of the Dead",
     instagram: "https://www.instagram.com/p/Ci-q9VAKP_S/",
     github: "",
-    desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    desc: "ISTE-VESIT hosted an event called The Chronicles of the Dead on 29th September 2022, where teams solved a criminal case through 3 rounds to find the criminal. With 63 team registrations and 120+ participants, it was a successful and stimulating event.",
     date: "29th Sept, 2022",
   },
   {
@@ -50,7 +50,7 @@ export default [
     title: "Article writing",
     instagram: "https://www.instagram.com/p/CedDm49qzCs/",
     github: "",
-    desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    desc: "Article Writing is a great event to showcase your research and knowledge as well as your writing skills. The entries are invited for 2 topics- that are Technical and Socio-Political generally. There are Cash Prizes for the Winner in each category.",
     date: "10th Jun, 2022",
   },
   {
@@ -59,7 +59,7 @@ export default [
     title: "Dalal Street",
     instagram: "https://www.instagram.com/p/CbsdsxlPFcp/",
     github: "",
-    desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    desc: "Dalal Street is an annual event at college where real-time stock market news is broadcast and bids are placed, with half the amphitheater filled with enthusiastic participants and cash prizes for winners. It is organized by the ISTE council and replicates the Bombay Stock Exchange.",
     date: "31st Mar, 2022",
   },
   {
@@ -68,7 +68,7 @@ export default [
     title: "TechTrix",
     instagram: "https://www.instagram.com/p/CbiHBpZP-TM/",
     github: "",
-    desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    desc: "Techtrix, is a Pre-Praxis Tech-Fun event conducted. It is spread across 3 rounds namely, Blind coding, Rapid Fire, and Let's Gamble. All these rounds were there to test your intellect and wit. Each round designed to trick and puzzle the participants.",
     date: "29th Mar, 2022",
   },
   {
@@ -104,7 +104,7 @@ export default [
     title: "Invictus'22",
     instagram: "https://www.instagram.com/p/CZ_7r4Kqtci/",
     github: "",
-    desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    desc: "A 24-hour long hackathon conducted annually in collaboration with Quest-IT Cell. The hackathon is made, keeping the procedure of Code for Good hackathon, conducted by JPMC. There are 2 pools for SEs and rest of the students. The winners and the runners-up are rewarded with exciting cash prizes.",
     date: "19th Feb, 2022",
   },
   {
@@ -149,7 +149,7 @@ export default [
     title: "La Casino",
     instagram: "https://www.instagram.com/p/CUu4LGwoJcK/",
     github: "",
-    desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    desc: "La casino is an online event based on Money Heist with tasks, riddles and cash prize. Held on a custom-designed website, it was the most attended online fun event.",
     date: "10th Oct, 2021",
   },
   {
