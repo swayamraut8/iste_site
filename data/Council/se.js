@@ -1,10 +1,10 @@
 export default [
   {
-      name:"Undecided",
-      img:"../public/images/Council/TE/",
-      position:"",
-      insta:"",
-      linkedin:"",
-      github:""
-  }
-]
+    name: "To be announced",
+    img: "../public/images/Council/TE/",
+    position: "",
+    insta: "",
+    linkedin: "",
+    github: "",
+  },
+];
