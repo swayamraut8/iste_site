@@ -89,7 +89,7 @@ export default function BE() {
                 github={data[0].github}
               />
             </div>
-            <div className="grid justify-center md:grid-cols-2 lg:grid-cols-4 gap-5 lg:gap-7 my-10">
+            <div className="grid justify-center md:grid-cols-3 lg:grid-cols-3 gap-5 lg:gap-7 my-10">
               <Card
                 name={data[1].name}
                 position={data[1].position}
@@ -114,6 +114,12 @@ export default function BE() {
                 linkedin={data[3].linkedin}
                 github={data[3].github}
               />
+            </div>
+          </section>
+        </TabPanel>
+        <TabPanel>
+          <section className="text-zinc-900 bg-gray-200 body-font pt-16">
+            <div className="grid justify-center md:grid-cols-1 lg:grid-cols-1 gap-5 lg:gap-7 my-10">
               <Card
                 name={data[4].name}
                 position={data[4].position}
@@ -123,11 +129,7 @@ export default function BE() {
                 github={data[4].github}
               />
             </div>
-          </section>
-        </TabPanel>
-        <TabPanel>
-          <section className="text-zinc-900 bg-gray-200 body-font pt-16">
-            <div className="grid justify-center md:grid-cols-1 lg:grid-cols-1 gap-5 lg:gap-7 my-10">
+            <div className="grid justify-center md:grid-cols-2 lg:grid-cols-4 gap-5 lg:gap-7 my-10">
               <Card
                 name={data[5].name}
                 position={data[5].position}
@@ -136,8 +138,6 @@ export default function BE() {
                 linkedin={data[5].linkedin}
                 github={data[5].github}
               />
-            </div>
-            <div className="grid justify-center md:grid-cols-2 lg:grid-cols-4 gap-5 lg:gap-7 my-10">
               <Card
                 name={data[6].name}
                 position={data[6].position}
@@ -162,6 +162,8 @@ export default function BE() {
                 linkedin={data[8].linkedin}
                 github={data[8].github}
               />
+            </div>
+            <div className="grid justify-center md:grid-cols-2 lg:grid-cols-2 gap-5 lg:gap-7 my-10">
               <Card
                 name={data[9].name}
                 position={data[9].position}
@@ -170,12 +172,6 @@ export default function BE() {
                 linkedin={data[9].linkedin}
                 github={data[9].github}
               />
-            </div>
-          </section>
-        </TabPanel>
-        <TabPanel>
-          <section className="text-zinc-900 bg-gray-200 body-font pt-16">
-            <div className="grid justify-center md:grid-cols-1 lg:grid-cols-1 gap-5 lg:gap-7 my-10">
               <Card
                 name={data[10].name}
                 position={data[10].position}
@@ -185,7 +181,11 @@ export default function BE() {
                 github={data[10].github}
               />
             </div>
-            <div className="grid justify-center md:grid-cols-2 lg:grid-cols-2 gap-5 lg:gap-7 my-10">
+          </section>
+        </TabPanel>
+        <TabPanel>
+          <section className="text-zinc-900 bg-gray-200 body-font pt-16">
+            <div className="grid justify-center md:grid-cols-3 lg:grid-cols-3 gap-5 lg:gap-7 my-10">
               <Card
                 name={data[11].name}
                 position={data[11].position}
@@ -202,12 +202,6 @@ export default function BE() {
                 linkedin={data[12].linkedin}
                 github={data[12].github}
               />
-            </div>
-          </section>
-        </TabPanel>
-        <TabPanel>
-          <section className="text-zinc-900 bg-gray-200 body-font pt-16 mt-8">
-            <div className="grid justify-center md:grid-cols-2 lg:grid-cols-2 gap-5 lg:gap-7 my-10">
               <Card
                 name={data[13].name}
                 position={data[13].position}
@@ -216,6 +210,12 @@ export default function BE() {
                 linkedin={data[13].linkedin}
                 github={data[13].github}
               />
+            </div>
+          </section>
+        </TabPanel>
+        <TabPanel>
+          <section className="text-zinc-900 bg-gray-200 body-font pt-16 mt-8">
+            <div className="grid justify-center md:grid-cols-1 lg:grid-cols-1 gap-5 lg:gap-7 my-10">
               <Card
                 name={data[14].name}
                 position={data[14].position}
@@ -227,10 +227,9 @@ export default function BE() {
             </div>
           </section>
         </TabPanel>
-
         <TabPanel>
           <section className="text-zinc-900 bg-gray-200 body-font pt-16 mt-8">
-            <div className="grid justify-center md:grid-cols-2 lg:grid-cols-2 gap-5 lg:gap-7 my-10">
+            <div className="grid justify-center md:grid-cols-1 lg:grid-cols-1 gap-5 lg:gap-7 my-10">
               <Card
                 name={data[15].name}
                 position={data[15].position}
@@ -238,14 +237,6 @@ export default function BE() {
                 insta={data[15].insta}
                 linkedin={data[15].linkedin}
                 github={data[15].github}
-              />
-              <Card
-                name={data[16].name}
-                position={data[16].position}
-                image={data[16].img}
-                insta={data[16].insta}
-                linkedin={data[16].linkedin}
-                github={data[16].github}
               />
             </div>
           </section>
