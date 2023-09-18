@@ -1,138 +1,147 @@
+/*
+    {
+      name:"Omkar Mahajan",
+      img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674285511/ISTECouncil/TE/Omkar_a9funh.png",
+      position:"Senior Graphics Officer",
+      insta:"https://www.instagram.com/omka.r_1729",
+      linkedin:"https://www.linkedin.com/in/omkar-mahajan-03b79b21b/",
+      github:"https://github.com/omkar1728"
+    },
+
+*/
+
 export default [
+  // ---------------------------------------- BE Heads ----------------------------------------------------
   {
-      name:"Varnit Batheja",
-      img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674287686/ISTECouncil/BE/Varnit_r2yxbk.jpg",
-      position:"Chairperson",
-      insta:"https://instagram.com/varnit_batheja?igshid=NTA5ZTk1NTc=",
-      linkedin:"https://www.linkedin.com/in/varnit-batheja-106692252",
-      github:"#"
+    name: "Subrato Tapaswi",
+    img: "https://res.cloudinary.com/dsg40wc7x/image/upload/v1674285514/ISTECouncil/TE/Subrato_w4v76x.png",
+    position: "Chaiperson",
+    insta: "https://www.instagram.com/subrato.tapaswi/",
+    linkedin: "https://www.linkedin.com/in/subrato-tapaswi/",
+    github: "https://github.com/subrato3",
   },
   {
-      name:"Srushti Jagtap",
-      img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674287661/ISTECouncil/BE/Srushti_z6wzvt.jpg",
-      position:"Co-Chairperson",
-      insta:"https://instagram.com/sruuuuuuuushhhti?igshid=NTA5ZTk1NTc=",
-      linkedin:"https://www.linkedin.com/in/srushti-jagtap-08a10122b",
-      github:"https://github.com/Srushti2602"
+    name: "Anushka Darure",
+    img: "https://res.cloudinary.com/dsg40wc7x/image/upload/v1674285506/ISTECouncil/TE/Anushka_D_uya1kf.png",
+    position: "Operations Secretary",
+    insta: "#",
+    linkedin: "#",
+    github: "#",
   },
   {
-      name:"Mrunmayee Waingankar",
-      img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674287664/ISTECouncil/BE/Mrunmayee_Waingankar_zbzwwk.jpg",
-      position:"Chief Executive Officer",
-      insta:"https://instagram.com/mrun_w?igshid=NTA5ZTk1NTc=",
-      linkedin:"https://www.linkedin.com/in/mrunmayee-waingankar-31838a1b9",
-      github:"https://github.com/mrunmayee2001"
+    name: "Manas Lalwani",
+    img: "https://res.cloudinary.com/dsg40wc7x/image/upload/v1674285510/ISTECouncil/TE/Manas_dxrxex.png",
+    position: "Junior Treasurer",
+    insta: "https://www.instagram.com/manaslalwani/",
+    linkedin: "https://www.linkedin.com/in/manas-lalwani-b43a7a1bb",
+    github: "https://github.com/ManasLalwani",
   },
   {
-      name:"Devansh Singh",
-      img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674287661/ISTECouncil/BE/Devansh_Singh_zozkpd.png",
-      position:"Senior Treasurer",
-      insta:"https://instagram.com/devansh_7?igshid=NTA5ZTk1NTc=",
-      linkedin:"https://www.linkedin.com/in/devansh-singh-93a552208 ",
-      github:"#"
+    name: "Divisha Gupta",
+    img: "https://res.cloudinary.com/dsg40wc7x/image/upload/v1674285508/ISTECouncil/TE/Divisha_lcazpg.png",
+    position: "Chief Executive Officer",
+    insta: "https://www.instagram.com/divisha2005/?next=%2F",
+    linkedin: "https://www.linkedin.com/in/divisha-gupta-929935218/",
+    github: "https://github.com/divisha6",
+  },
+  // ---------------------------------------- BE Tech ----------------------------------------------------
+  {
+    name: "Atharva Bhoite",
+    img: "https://res.cloudinary.com/dsg40wc7x/image/upload/v1674285505/ISTECouncil/TE/Atharva_B_mbqgpj.png",
+    position: "Chief Technical Officer",
+    insta: "https://www.instagram.com/atharva_bhoite_7/",
+    linkedin: "https://www.linkedin.com/in/atharva-bhoite-ba783a22b/",
+    github: "https://github.com/atharvabhoite7",
   },
   {
-      name:"Isha Gawde",
-      img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674295110/ISTECouncil/BE/Isha_jofxpm.jpg",
-      position:"Chief Marketing Officer",
-      insta:"https://instagram.com/isha_gawde?igshid=OGQ2MjdiOTE=",
-      linkedin:"#",
-      github:"#"
+    name: "Sarvesh Patil",
+    img: "https://res.cloudinary.com/dsg40wc7x/image/upload/v1674285512/ISTECouncil/TE/Sarvesh_p7rcaa.png",
+    position: "Senior Technical Officer",
+    insta: "https://www.instagram.com/patil__sarvesh/",
+    linkedin: "https://www.linkedin.com/in/sarvesh2902/",
+    github: "https://github.com/sarvesh2902",
   },
   {
-      name:"Aamir Ansari",
-      img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674287680/ISTECouncil/BE/Aamir_Ansari_rkc16p.jpg",
-      position:"Chief Technical Officer",
-      insta:"https://instagram.com/aamiransari101?igshid=OGQ2MjdiOTE=",
-      linkedin:"https://www.linkedin.com/in/aamir-ansari-3b349b206",
-      github:"https://github.com/Aamir-Ansari-almost"
+    name: "Bhargav Bodhankar",
+    img: "https://res.cloudinary.com/dsg40wc7x/image/upload/v1674285506/ISTECouncil/TE/Bhargav_qzjivn.png",
+    position: "Senior Technical Officer",
+    insta: "https://instagram.com/bhargavbodhankar?igshid=NTA5ZTk1NTc=",
+    linkedin: "#",
+    github: "https://github.com/x-ordia",
   },
   {
-      name:"V Krishnasubramaniam",
-      img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674287663/ISTECouncil/BE/Krishna_oofgny.jpg",
-      position:"Senior Technical Officer",
-      insta:"https://www.instagram.com/vkrishna2090/",
-      linkedin:"https://www.linkedin.com/in/krishnasubramaniam-v/",
-      github:"https://github.com/VKrishna2090"
+    name: "Japneet Rajput",
+    img: "https://res.cloudinary.com/dsg40wc7x/image/upload/v1674285508/ISTECouncil/TE/Japneet_knr4p8.png",
+    position: "Senior Technical Officer",
+    insta: "https://www.instagram.com/japneet.java/",
+    linkedin: "https://www.linkedin.com/in/japneetrajput/",
+    github: "https://github.com/JapneetRajput",
   },
   {
-      name:"Kusum Rohra",
-      img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674297471/ISTECouncil/BE/1_ujjidc.png",
-      position:"Senior Technical Officer",
-      insta:"https://instagram.com/kusum_rohra",
-      linkedin:"https://www.linkedin.com/in/kusum-rohra",
-      github:"http://github.com/KUSUM24"
+    name: "Surya Ganiga",
+    img: "https://res.cloudinary.com/dsg40wc7x/image/upload/v1674285513/ISTECouncil/TE/Surya_yyvaai.png",
+    position: "Senior Technical Officer",
+    insta: "https://www.instagram.com/sattu._.supari/",
+    linkedin: "https://www.linkedin.com/in/surya-ganiga-ab402222a/",
+    github: "https://github.com/satts27",
   },
   {
-      name:"Khushboo Dalwani",
-      img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674287665/ISTECouncil/BE/Khushboo_Dalwani_ptnfba.webp",
-      position:"Senior Technical Officer",
-      insta:"https://instagram.com/khushboodalwani?igshid=ZDdkNTZiNTM=",
-      linkedin:"https://www.linkedin.com/in/khushdalwani/",
-      github:"https://github.com/Khushboo1008"
+    name: "Hrishikesh Patil",
+    img: "https://res.cloudinary.com/dsg40wc7x/image/upload/v1674285508/ISTECouncil/TE/Hrishikesh_P_tpa06f.png",
+    position: "Senior Technical Officer",
+    insta: "https://www.instagram.com/hrishikeshhh_/",
+    linkedin: "https://www.linkedin.com/in/hrishikesh-patil-2002/",
+    github: "https://github.com/hrishi0102",
   },
   {
-      name:"Khushboo Dhingra",
-      img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674297525/ISTECouncil/BE/2_gflo6f.png",
-      position:"Senior Technical Officer",
-      insta:"https://instagram.com/khushboo3333?igshid=ZDdkNTZiNTM=",
-      linkedin:"https://linkedin.com/in/khushboo-dhingra/",
-      github:"https://github.com/Khush2809"
+    name: "Hrishikesh Kumbhar",
+    img: "https://res.cloudinary.com/dsg40wc7x/image/upload/v1674285508/ISTECouncil/TE/Hrishikesh_K_cvyjom.png",
+    position: "Senior Technical Officer",
+    insta: "https://www.instagram.com/hrishikesh_kumbhar15/",
+    linkedin: "https://www.linkedin.com/in/hrishikesh-kumbhar-a86319206/",
+    github: "https://github.com/Hrishikesh156",
+  },
+  // ---------------------------------------- BE Ops ----------------------------------------------------
+  {
+    name: "Upendra Falak",
+    img: "https://res.cloudinary.com/dsg40wc7x/image/upload/v1674285512/ISTECouncil/TE/Upendra_eer53x.png",
+    position: "Senior Operations Officer",
+    insta: "https://www.instagram.com/falakupendra/",
+    linkedin: "https://www.linkedin.com/in/upendra-falak-7087b6238/",
+    github: "https://github.com/Upendrafalak",
   },
   {
-      name:"Gauri Mahajan",
-      img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674287684/ISTECouncil/BE/Gauri_Mahajan_amd69w.jpg",
-      position:"Chief Operations Officer",
-      insta:"https://instagram.com/gaurim26?igshid=NTA5ZTk1NTc=",
-      linkedin:"https://www.linkedin.com/in/gauri-mahajan-8302931b8",
-      github:"#"
+    name: "Shrey Panchamia",
+    img: "https://res.cloudinary.com/dsg40wc7x/image/upload/v1674285514/ISTECouncil/TE/Shrey_piabd3.png",
+    position: "Senior Operations Officer",
+    insta: "https://www.instagram.com/shrey_267/",
+    linkedin: " https://www.linkedin.com/in/shrey-panchamia-6821591ba",
+    github: "#",
   },
   {
-      name:"Minal Katware",
-      img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674287665/ISTECouncil/BE/Minal_Katware_y7ravs.png",
-      position:"Senior Operations Officer",
-      insta:"https://instagram.com/minalkatware?igshid=OGQ2MjdiOTE=",
-      linkedin:"https://www.linkedin.com/in/minal-katware-b814b6234",
-      github:"https://github.com/minalkatware"
+    name: "Sahil Kodwani",
+    img: "https://res.cloudinary.com/dsg40wc7x/image/upload/v1674285510/ISTECouncil/TE/Sahil_acnxdt.png",
+    position: "Senior Operations Officer",
+    insta: "https://instagram.com/sahilkodwani08?igshid=NTA5ZTk1NTc=",
+    linkedin: "https://www.linkedin.com/in/sahil-kodwani-b48959209",
+    github: "https://github.com/sahilkodwani08",
   },
+  // ---------------------------------------- BE Graphics ----------------------------------------------------
   {
-      name:"Nidhi Thakkar",
-      img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674296004/ISTECouncil/BE/Nidhi_c8edj1.jpg",
-      position:"Senior Operations Officer",
-      insta:"https://www.instagram.com/nidhi.thakkar66/",
-      linkedin:"https://www.linkedin.com/in/nidhi-thakkar-20oc2001/",
-      github:"https://github.com/nidhi-o20"
+    name: "Omkar Mahajan",
+    img: "https://res.cloudinary.com/dsg40wc7x/image/upload/v1674285511/ISTECouncil/TE/Omkar_a9funh.png",
+    position: "Senior Graphics Officer",
+    insta: "https://www.instagram.com/omka.r_1729",
+    linkedin: "https://www.linkedin.com/in/omkar-mahajan-03b79b21b/",
+    github: "https://github.com/omkar1728",
   },
+  // ----------------------------------------- BE Editors ---------------------------------------------------
   {
-      name:"Nafees Akhter",
-      img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674296427/ISTECouncil/BE/Nafees__cultpn.jpg",
-      position:"Senior Graphics Officer",
-      insta:"https://www.instagram.com/_.the.night.fury._/",
-      linkedin:"https://www.linkedin.com/in/nafees-akhter/",
-      github:"#"
+    name: "Atharva Joshi",
+    img: "https://res.cloudinary.com/dsg40wc7x/image/upload/v1674285505/ISTECouncil/TE/Atharva_J_tqtp2x.png",
+    position: "Senior Editor",
+    insta: "https://instagram.com/atharva.mp3?igshid=OGQ2MjdiOTE=",
+    linkedin: "#",
+    github: "#",
   },
-  {
-      name:"Swarali Patil",
-      img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674287663/ISTECouncil/BE/Swarali_Patil_fwqn1q.jpg",
-      position:"Senior Graphics Officer",
-      insta:"https://www.instagram.com/swarali.21/",
-      linkedin:"https://www.linkedin.com/in/swarali-patil-b543b2214/",
-      github:"https://github.com/SwaraliPatil21"
-  },
-  {
-      name:"Jisha Philip",
-      img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674487738/ISTECouncil/BE/IMG-20230123-WA0003_yaxc5d.jpg",
-      position:"Senior Graphics Officer",
-      insta:"https://instagram.com/ann_jisha_philip?igshid=NTA5ZTk1NTc=",
-      linkedin:"https://www.linkedin.com/in/jisha-p-2a082a104",
-      github:"https://github.com/jishaphilip01"
-  },
-  {
-      name:"Shrusti Govindwar",
-      img:"https://res.cloudinary.com/dsg40wc7x/image/upload/v1674487739/ISTECouncil/BE/IMG-20230123-WA0004_gnwuxj.jpg",
-      position:"Senior Graphics Officer",
-      insta:"https://instagram.com/shrush_tee?igshid=OGQ2MjdiOTE=",
-      linkedin:"https://www.linkedin.com/in/shrushti-govindwar-620203193",
-      github:"https://github.com/shrushti1007"
-  }
-]
+];
