@@ -157,7 +157,7 @@ export default [
   },
   {
     name: "Adheeti Dalal",
-    img: "https://res.cloudinary.com/dsg40wc7x/image/upload/v1674285508/ISTECouncil/TE/Khushi_d0vuvb.png",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695006503/TECouncil/kan4pzuowfbjfgoemuc3.jpg",
     position: "Public Relations Officer",
     insta: "https://instagram.com/adheeeti?igshid=OGQ5ZDc2ODk2ZA==",
     linkedin: "#",
@@ -199,7 +199,7 @@ export default [
   },
   {
     name: "Aatish Salian",
-    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1694977372/TECouncil/ud6tifljddijkqv3nvyg.jpg",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695008495/TECouncil/rgklnikmeh6g7sn59bpi.jpg",
     position: "Junior Graphics Officer",
     insta: "https://www.instagram.com/aatish_0903/",
     linkedin: "http://www.linkedin.com/in/aatish-salian",

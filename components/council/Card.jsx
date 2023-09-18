@@ -1,6 +1,15 @@
 import React from "react";
-
+/*
+  Props Received:
+    image: image
+    position: position in the council (e.g. Secretary)
+    insta: The instagram profile link
+    linkedin:
+    github:
+    align: 
+ */
 const Card = (props) => {
+  const position = props.align || "center";
   return (
     <div>
       <div className="flex flex-wrap justify-center">
@@ -9,7 +18,7 @@ const Card = (props) => {
             <img
               src={props.image}
               alt="Member"
-              className="drop-shadow-2xl flex-shrink-0 rounded-3xl w-48 h-48 object-cover object-center mb-4"
+              className={`drop-shadow-2xl flex-shrink-0 rounded-3xl w-48 h-48 object-cover object-center mb-4 object-${position}`}
             />
             <div className="w-full">
               <h2 className="title-font font-bold text-lg">{props.name}</h2>
@@ -104,6 +113,10 @@ const Card = (props) => {
       </div>
     </div>
   );
+};
+
+Card.defaultProps = {
+  position: "center",
 };
 
 export default Card;
