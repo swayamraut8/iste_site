@@ -28,6 +28,7 @@ const Card = (props) => {
                   className="ml-2 text-gray-700 hover:opacity-70 transition-all"
                   href={props.insta}
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   {/* <svg
                     fill="none"
@@ -55,6 +56,7 @@ const Card = (props) => {
                   className="ml-2 text-gray-700 hover:opacity-70 transition-all"
                   href={props.linkedin}
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   {/* <svg
                     fill="none"
@@ -82,6 +84,7 @@ const Card = (props) => {
                   className="ml-2 text-gray-700 hover:opacity-70 transition-all"
                   href={props.github}
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   {/* <svg
                     fill="none"
