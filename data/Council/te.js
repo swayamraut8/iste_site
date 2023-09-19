@@ -4,7 +4,7 @@ export default [
     img: "https://res.cloudinary.com/df1tqicca/image/upload/v1694976404/TECouncil/ejbsvyxxkkhsth22emif.jpg",
     position: "Executive Secretary",
     insta: " https://www.instagram.com/realshashwatt/",
-    linkedin: "#",
+    linkedin: "https://www.linkedin.com/in/shashwat-tripathi-1b8972290",
     github: " https://github.com/Shashwat3012",
   },
   {
@@ -209,7 +209,7 @@ export default [
     name: "Devangana Barua",
     img: "https://res.cloudinary.com/df1tqicca/image/upload/v1694976400/TECouncil/udaonlh7ap5fr1a5rhtr.jpg",
     position: "Junior Graphics Officer",
-    insta: "https://www.instagram.com/aatish_0903/",
+    insta: "https://www.instagram.com/not_your_apsara/",
     linkedin: "https://www.linkedin.com/in/devangana-barua-58871725b/",
     github: "https://www.instagram.com/not_your_apsara/",
   },

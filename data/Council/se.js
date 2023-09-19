@@ -1,5 +1,13 @@
 export default [
   {
+    name: "To be announced",
+    img: "https://cdn.pixabay.com/photo/2019/05/09/10/37/pointing-4190930_960_720.jpg",
+    position: "",
+    insta: "",
+    linkedin: "",
+    github: ""
+  },
+  {
     name: "Shashwat Tripathi",
     img: "https://res.cloudinary.com/dsg40wc7x/image/upload/v1675278447/ISTECouncil/SE/ShashwatTripathi_tech_lwwg2o.jpg",
     position: "SE Technical Officer",
