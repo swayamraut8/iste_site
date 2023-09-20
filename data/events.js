@@ -2,7 +2,7 @@ export default [
   {
     title: "Hack A Talk",
     type: "Non Tech",
-    img: "",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695197818/Posters/zudma7ucmzpultpv38y5.jpg",
     instagram: "https://www.instagram.com/p/Cw-iVoVMNtO/",
     github: "",
     desc: "'Hack-A-Talk' was an engaging talk session featuring two esteemed speakers renowned for their numerous hackathon victories and deep expertise in the field. During this session, they shared invaluable insights into the world of hackathons, covering topics such as their benefits, the different phases involved, and essential strategies for effective preparation",
@@ -11,7 +11,7 @@ export default [
   {
     title: "Pixel to Reality",
     type: "Tech Workshops",
-    img: "",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695197818/Posters/vouhysou1ijtkxnhl03r.jpg",
     instagram: "https://www.instagram.com/p/CwDa9IPMD_2/?img_index=1",
     github: "",
     desc: "'Pixel to Reality' was a two-day offline workshop that provided students with a hands-on opportunity to dive into the world of game development using SparkAR.",
@@ -20,7 +20,7 @@ export default [
   {
     title: "Symposium'23",
     type: "Non Tech",
-    img: "",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695197818/Posters/whorhpklkjutushiunjv.jpg",
     instagram: "https://www.instagram.com/p/Cqnq5l-Pf3t/",
     github: "",
     desc: "The symposium was the signing-off event of ISTE-VESIT, celebrated as a token of gratitude for our members and a celebration of the hardworking council. The theme of the event was 'Saga of Unicorns' and was sponsored by McDonald's and Mad Over Donuts, with amazing goodies and prizes for our esteemed members.",
@@ -29,16 +29,25 @@ export default [
   {
     title: "Article Writing",
     type: "Non Tech",
-    img: "",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695197819/Posters/etvhdibbpcko4r8apbgt.jpg",
     instagram: "https://www.instagram.com/p/CqTBKwsvsfd/",
     github: "",
     desc: "Article Writing is a great event to showcase your research and knowledge as well as your writing skills. The entries are invited for 2 topics- that are Technical and Socio-Political generally. There are Cash Prizes for the Winner in each category.",
     date: "5th April, 2023",
   },
   {
+    title: "Webinar on Study Abroad",
+    type: "Non Tech",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695197818/Posters/sleczgi5kaehk3j0saky.jpg",
+    instagram: "https://www.instagram.com/p/Cpmu-c8IagU/",
+    github: "",
+    desc: "The webinar demonstrated the benefits and opportunities of studying abroad. Students discovered the various options available, how to apply, and tips for a successful career.",
+    date: "12th Mar, 2023",
+  },
+  {
     title: "Caribbean Escapade",
     type: "Fun Events",
-    img: "",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695197819/Posters/adcfqwyijuweywkfsltg.jpg",
     instagram: "https://www.instagram.com/p/CpVf4zioDIq/",
     github: "",
     desc: "A fun event held as one of the post-praxis events. This event was a thrilling blend of the concept of 'Pirates of the Caribbean' and some exciting games.",
@@ -47,7 +56,7 @@ export default [
   {
     title: "Dalal Street",
     type: "Fun Events",
-    img: "",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695197818/Posters/revsrydtut3jvrulkniw.jpg",
     instagram: "https://www.instagram.com/p/CpO3x_po-Uc/",
     github: "",
     desc: "Dalal Street is an annual event at college where real-time stock market news is broadcast and bids are placed, with half the amphitheater filled with enthusiastic participants and cash prizes for winners. It is organized by the ISTE council and replicates the Bombay Stock Exchange.",
@@ -56,7 +65,7 @@ export default [
   {
     title: "Trading Workshop",
     type: "Non Tech",
-    img: "",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695197819/Posters/etc1olwgh29y9jzg8xm6.jpg",
     instagram: "https://www.instagram.com/p/CpM7lQgIumR/",
     github: "",
     desc: "The trading workshop was An online workshop held as our pre-praxis event. This workshop provided detailed knowledge and insights into the stock market for the trading enthusiasts out there.",
@@ -65,7 +74,7 @@ export default [
   {
     title: "Campus2Corporate",
     type: "Non Tech",
-    img: "",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695197819/Posters/hhifimapfv1hi0hs1udr.jpg",
     instagram: "https://www.instagram.com/p/Co2i3_6vBAf/",
     github: "",
     desc: "Campus2Corporate provided valuable insights and tips to students on how to prepare for job interviews and secure employment. The workshop featured placed students who shared their knowledge and experiences, and also provided opportunities for networking and mock interviews.",
@@ -74,20 +83,11 @@ export default [
   {
     title: "Invictus'23",
     type: "Tech Workshops",
-    img: "",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695197818/Posters/njyioaegzsnyaisac3ds.jpg",
     instagram: "https://www.instagram.com/p/CoH591GPqZb/",
     github: "",
     desc: "A 24-hour long hackathon conducted annually in collaboration with Quest-IT Cell. The hackathon is made, keeping the procedure of Code for Good hackathon, conducted by JPMC. There are 2 pools for SEs and rest of the students. The winners and the runners-up are rewarded with exciting cash prizes.",
     date: "4th & 5th Feb, 2023",
-  },
-  {
-    title: "Webinar on Study Abroad",
-    type: "Non Tech",
-    img: "",
-    instagram: "https://www.instagram.com/p/Cpmu-c8IagU/",
-    github: "",
-    desc: "The webinar demonstrated the benefits and opportunities of studying abroad. Students discovered the various options available, how to apply, and tips for a successful career.",
-    date: "12th Mar, 2023",
   },
   {
     img: "https://res.cloudinary.com/dyn3rj4lh/image/upload/v1674063968/Website-2022/images/tailwind_molsao.jpg",
