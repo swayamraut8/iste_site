@@ -5,7 +5,7 @@ import Layout from "../components/Layout";
 import Image from "next/image";
 
 const Timeline = () => {
-  const [data, setData] = useState(events.slice(0, 10));
+  const [data, setData] = useState(events.slice(0, 15));
 
   const timelineList = data.map((item) => {
     let cardPlace;

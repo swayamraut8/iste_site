@@ -1,15 +1,15 @@
 export default [
   {
     name: "Shashwat Tripathi",
-    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1694976404/TECouncil/ejbsvyxxkkhsth22emif.jpg",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695198430/TECouncil_Compressed/qav9bkvfb4xyctdjcwev.jpg",
     position: "Executive Secretary",
     insta: " https://www.instagram.com/realshashwatt/",
-    linkedin: "#",
+    linkedin: "https://www.linkedin.com/in/shashwat-tripathi-1b8972290",
     github: " https://github.com/Shashwat3012",
   },
   {
     name: "Bhakti Daga",
-    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1694976400/TECouncil/bsgo8wazekhqfzrwfjqr.jpg",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695198430/TECouncil_Compressed/k2ifibev48dqnhr3e5w6.jpg",
     position: "Managing Secretary",
     insta:
       "https://instagram.com/bhaktidaga08?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D",
@@ -18,7 +18,7 @@ export default [
   },
   {
     name: "Rachana Rane",
-    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1694976406/TECouncil/kvccobsoi0lqgtdt9kw4.jpg",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695198429/TECouncil_Compressed/jpg1icsdsdf12lxwa1ig.jpg",
     position: "Operations Secretary",
     insta: "https://www.instagram.com/rachana_rane/",
     linkedin: "https://www.linkedin.com/in/rachana-rane-7aa533253",
@@ -26,7 +26,7 @@ export default [
   },
   {
     name: "Aditya Nama",
-    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1694976401/TECouncil/oh4esoamuzyfsqnmucgs.jpg",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695198433/TECouncil_Compressed/xwymvosmoda19t9e3njl.jpg",
     position: "Junior Treasurer",
     insta: "https://www.instagram.com/aditya_nama03/?hl=en",
     linkedin: "http://www.linkedin.com/in/aditya-nama-a07139272",
@@ -34,7 +34,7 @@ export default [
   },
   {
     name: "Abhinaya Danda",
-    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1694976400/TECouncil/yk2crzltrjpyttflzagd.jpg",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695198431/TECouncil_Compressed/v9yawm9frrpmwrztv8vv.jpg",
     position: "Junior Technical Officer",
     insta: "https://www.instagram.com/abhinaya_danda/",
     linkedin: "https://www.linkedin.com/in/abhinaya-danda-167283235/",
@@ -42,7 +42,7 @@ export default [
   },
   {
     name: "Aum Kulkarni",
-    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1694976400/TECouncil/mkfy3zufm3zhchn0dk5u.jpg",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695198432/TECouncil_Compressed/ezfurydvnfyyvqkcmzjf.jpg",
     position: "Junior Technical Officer",
     insta: "https://www.instagram.com/aumkulkarni/",
     linkedin: "https://www.linkedin.com/in/aum-kulkarni-053a96235/",
@@ -50,7 +50,7 @@ export default [
   },
   {
     name: "Susmita Santi",
-    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1694976401/TECouncil/bse8iimnmgvsbcc3zq9s.jpg",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695198432/TECouncil_Compressed/chwr9o9ojzcarexel1qk.jpg",
     position: "Junior Technical Officer",
     insta: "https://www.instagram.com/susmitasanti04/",
     linkedin: "https://www.linkedin.com/in/susmita-santi-2b8047261/",
@@ -58,7 +58,7 @@ export default [
   },
   {
     name: "Ruchir Jain",
-    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1694976407/TECouncil/imsrhzfb29lqrqewxcbv.jpg",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695198431/TECouncil_Compressed/boteswx6j4ycg2z9uehm.jpg",
     position: "Junior Technical Officer",
     insta: "https://www.instagram.com/ruchirjainnn/",
     linkedin: "https://www.linkedin.com/in/ruchir-jain-3376b3232/",
@@ -66,7 +66,7 @@ export default [
   },
   {
     name: "Rishabh Gupta",
-    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1694976407/TECouncil/jtnscqoob49ry0pm5fop.jpg",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695198432/TECouncil_Compressed/vbjs7focrohmdbqxmvtw.jpg",
     position: "Junior Technical Officer",
     insta: "https://www.instagram.com/__rishhabh_/",
     linkedin: "https://github.com/rish88c",
@@ -74,7 +74,7 @@ export default [
   },
   {
     name: "Nilesh Balotiya",
-    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1694976410/TECouncil/ng7cxmbh5phmr9hr0bye.jpg",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695198430/TECouncil_Compressed/vp6xvnnjdpa8xgg2lucg.jpg",
     position: "Junior Technical Officer",
     insta: "https://www.instagram.com/nilesshh._/",
     linkedin: "https://www.linkedin.com/in/nilesh-balotiya-baba58268/",
@@ -82,7 +82,7 @@ export default [
   },
   {
     name: "Atharva Mulam",
-    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1694976406/TECouncil/jqhgd1sauvnsrueoazka.jpg",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695198430/TECouncil_Compressed/ngnnxa0quz4gayzz43ps.jpg",
     position: "Junior Operations Officer",
     insta:
       "https://instagram.com/atharvamulam?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
@@ -91,7 +91,7 @@ export default [
   },
   {
     name: "Shantanu Saraf",
-    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1694976415/TECouncil/vlwzbwfax6f4h4y6z3dh.jpg",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695198430/TECouncil_Compressed/gulucrj3dxmdtfgd2svk.jpg",
     position: "Junior Operations Officer",
     insta: "https://instagram.com/shantanu.saraf?igshid=NTc4MTIwNjQ2YQ==",
     linkedin: "https://www.linkedin.com/in/shantanu-saraf-3aab6125a/",
@@ -99,7 +99,7 @@ export default [
   },
   {
     name: "Johan John",
-    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1694976407/TECouncil/g4r03q8lvswensxl9igw.jpg",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695198431/TECouncil_Compressed/jllysca9j37ou4p7qakh.jpg",
     position: "Junior Operations Officer",
     insta:
       "https://instagram.com/__jo____j?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
@@ -108,7 +108,7 @@ export default [
   },
   {
     name: "Mahendra Girase",
-    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1694976404/TECouncil/tgy1j2mvj1ijg7mi5pp7.jpg",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695198430/TECouncil_Compressed/vgxjris0fdc5fl0duhrq.jpg",
     position: "Junior Operations Officer",
     insta: "https://www.instagram.com/mjgirase07/",
     linkedin: "https://www.linkedin.com/in/mahendra-girase-398024243/",
@@ -116,7 +116,7 @@ export default [
   },
   {
     name: "Sarvadnya Awaghad",
-    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1694976409/TECouncil/zykbqzeyxvv4lqtxnboo.jpg",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695198431/TECouncil_Compressed/mvhgbwzcwcdlyawkq7bn.jpg",
     position: "Junior Operations Officer",
     insta: "https://www.instagram.com/sierra_alpha_43/",
     linkedin: "https://www.linkedin.com/in/sarvadnya-awaghad/",
@@ -124,7 +124,7 @@ export default [
   },
   {
     name: "Priyanshu Gurwani",
-    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1694976407/TECouncil/q00yyiovskmzlenvue9k.jpg",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695198431/TECouncil_Compressed/lsvlq8jdnxttyybhvod6.jpg",
     position: "Junior Operations Officer",
     insta: "https://www.instagram.com/priyanshu_gurwani/",
     linkedin: "https://www.linkedin.com/in/priyanshu-gurwani-869856246",
@@ -132,7 +132,7 @@ export default [
   },
   {
     name: "Ishwari Kamlesh Datir",
-    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1694976403/TECouncil/aotrgcgxyvnotxmlkuei.jpg",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695198432/TECouncil_Compressed/tzo0uyfz5o7unznamxlf.jpg",
     position: "Junior Operations Officer",
     insta:
       "https://instagram.com/ishwari_8104?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
@@ -141,7 +141,7 @@ export default [
   },
   {
     name: "Tanvi Naik",
-    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1694976401/TECouncil/gfagscbvv7at1oaxf0eb.jpg",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695198431/TECouncil_Compressed/a7x1nqusgabuo3kufvnu.jpg",
     position: "Junior Operations Officer",
     insta: "https://www.instagram.com/tanviiinaikkk/",
     linkedin: "https://linkedin.com/in/tanvi-naik-43446322b",
@@ -149,7 +149,7 @@ export default [
   },
   {
     name: "Ajinkya Jadhav",
-    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1694976401/TECouncil/rxcpiyowiwyujdgrkzpj.jpg",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695198432/TECouncil_Compressed/h2l02zoj3rohqb2xkjr2.jpg",
     position: "Public Relations Officer",
     insta: "https://instagram.com/ajinkyajadhavv_?igshid=MzRlODBiNWFlZA==",
     linkedin: "#",
@@ -157,7 +157,7 @@ export default [
   },
   {
     name: "Adheeti Dalal",
-    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695006503/TECouncil/kan4pzuowfbjfgoemuc3.jpg",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695198431/TECouncil_Compressed/kelxrbdle9lab3akzuf7.jpg",
     position: "Public Relations Officer",
     insta: "https://instagram.com/adheeeti?igshid=OGQ5ZDc2ODk2ZA==",
     linkedin: "#",
@@ -165,7 +165,7 @@ export default [
   },
   {
     name: "Khyati Hegde",
-    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1694976402/TECouncil/kepxpkml0hnka83eeelq.jpg",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695198432/TECouncil_Compressed/ogwekexnirvtqrsblmvi.jpg",
     position: "Public Relations Officer",
     insta:
       "https://instagram.com/khyati_hegde_?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
@@ -174,7 +174,7 @@ export default [
   },
   {
     name: "Kinjala Ahuja",
-    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1694976403/TECouncil/yhkklxnwsp3vcywgyscw.png",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695198433/TECouncil_Compressed/basxiczpixddt6bqdsqv.png",
     position: "Public Relations Officer",
     insta: "https://www.instagram.com/kinjala.ahuja123/",
     linkedin: "https://www.linkedin.com/in/kinjala-ahuja-89b134251/",
@@ -182,7 +182,7 @@ export default [
   },
   {
     name: "Deven Bhagtani",
-    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1694976412/TECouncil/o0ip8twwigoiccyjofih.jpg",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695198430/TECouncil_Compressed/zqmbadfymuzvidsvepr6.jpg",
     position: "Junior Graphics Officer",
     insta: "https://www.instagram.com/deven_bhagtani/",
     linkedin: "https://www.linkedin.com/in/deven-bhagtani-a8b2281ab",
@@ -190,7 +190,7 @@ export default [
   },
   {
     name: "Piyush Tilokani",
-    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1694977373/TECouncil/xmndqyjcj8tb2cjydvxt.jpg",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695198431/TECouncil_Compressed/bjiv3w56haxqr3ddlwq9.jpg",
     position: "Junior Graphics Officer",
     insta:
       "https://instagram.com/realpiyushh?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
@@ -199,7 +199,7 @@ export default [
   },
   {
     name: "Aatish Salian",
-    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695008495/TECouncil/rgklnikmeh6g7sn59bpi.jpg",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695198432/TECouncil_Compressed/kozhetu5ntw1wtbwxxrk.jpg",
     position: "Junior Graphics Officer",
     insta: "https://www.instagram.com/aatish_0903/",
     linkedin: "http://www.linkedin.com/in/aatish-salian",
@@ -207,9 +207,9 @@ export default [
   },
   {
     name: "Devangana Barua",
-    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1694976400/TECouncil/udaonlh7ap5fr1a5rhtr.jpg",
+    img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695198432/TECouncil_Compressed/es76btewwyzu8vg4sslr.jpg",
     position: "Junior Graphics Officer",
-    insta: "https://www.instagram.com/aatish_0903/",
+    insta: "https://www.instagram.com/not_your_apsara/",
     linkedin: "https://www.linkedin.com/in/devangana-barua-58871725b/",
     github: "https://www.instagram.com/not_your_apsara/",
   },

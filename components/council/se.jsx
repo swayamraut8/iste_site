@@ -29,7 +29,10 @@ export default function SE() {
                   <br/><br/><br/><br/><br/><br/><br/><br/><br/>
                   <TabPanel>
                       <section className="text-zinc-900 bg-gray-200 body-font pt-16 mt-8">
-                          <div className="grid justify-center md:grid-cols-2 lg:grid-cols-4 gap-5 lg:gap-7 my-10">
+                      <div className="grid justify-center md:grid-cols-1 lg:grid-cols-1 gap-5 lg:gap-7 my-10">
+                        <Card name={data[0].name} position={data[0].position} image={data[0].img} insta={data[0].insta} linkedin={data[0].linkedin} github={data[0].github}/>
+                      </ div>
+                          {/* <div className="grid justify-center md:grid-cols-2 lg:grid-cols-4 gap-5 lg:gap-7 my-10">
                               <Card name={data[0].name} position={data[0].position} image={data[0].img} insta={data[0].insta} linkedin={data[0].linkedin} github={data[0].github}/>
                               <Card name={data[1].name} position={data[1].position} image={data[1].img} insta={data[1].insta} linkedin={data[1].linkedin} github={data[1].github}/>
                               <Card name={data[2].name} position={data[2].position} image={data[2].img} insta={data[2].insta} linkedin={data[2].linkedin} github={data[2].github}/>
@@ -44,12 +47,15 @@ export default function SE() {
                           <div className="grid justify-center md:grid-cols-2 lg:grid-cols-2 gap-5 lg:gap-7 my-10">
                               <Card name={data[8].name} position={data[8].position} image={data[8].img} insta={data[8].insta} linkedin={data[8].linkedin} github={data[8].github}/>
                               <Card name={data[9].name} position={data[9].position} image={data[9].img} insta={data[9].insta} linkedin={data[9].linkedin} github={data[9].github}/>
-                          </div>
+                          </div> */}
                       </section>
                   </TabPanel>
                   <TabPanel>
                       <section className="text-zinc-900 bg-gray-200 body-font pt-16 mt-8">
-                          <div className="grid justify-center md:grid-cols-2 lg:grid-cols-4 gap-5 lg:gap-7 my-10">
+                          <div className="grid justify-center md:grid-cols-1 lg:grid-cols-1 gap-5 lg:gap-7 my-10">
+                            <Card name={data[0].name} position={data[0].position} image={data[0].img} insta={data[0].insta} linkedin={data[0].linkedin} github={data[0].github}/>
+                          </div>
+                          {/* <div className="grid justify-center md:grid-cols-2 lg:grid-cols-4 gap-5 lg:gap-7 my-10">
                               <Card name={data[10].name} position={data[10].position} image={data[10].img} insta={data[10].insta} linkedin={data[10].linkedin} github={data[10].github}/>
                               <Card name={data[11].name} position={data[11].position} image={data[11].img} insta={data[11].insta} linkedin={data[11].linkedin} github={data[11].github}/>
                               <Card name={data[12].name} position={data[12].position} image={data[12].img} insta={data[12].insta} linkedin={data[12].linkedin} github={data[12].github}/>
@@ -64,26 +70,32 @@ export default function SE() {
                           <div className="grid justify-center md:grid-cols-2 lg:grid-cols-2 gap-5 lg:gap-7 my-10">
                               <Card name={data[18].name} position={data[18].position} image={data[18].img} insta={data[18].insta} linkedin={data[18].linkedin} github={data[18].github}/>
                               <Card name={data[19].name} position={data[19].position} image={data[19].img} insta={data[19].insta} linkedin={data[19].linkedin} github={data[19].github}/>
-                          </div>
+                          </div> */}
                       </section>
                   </TabPanel>
                   <TabPanel>
                       <section className="text-zinc-900 bg-gray-200 body-font pt-16 mt-8">
-                          <div className="grid justify-center md:grid-cols-2 lg:grid-cols-3 gap-5 lg:gap-7 my-10">
+                          <div className="grid justify-center md:grid-cols-1 lg:grid-cols-1 gap-5 lg:gap-7 my-10">
+                            <Card name={data[0].name} position={data[0].position} image={data[0].img} insta={data[0].insta} linkedin={data[0].linkedin} github={data[0].github}/>
+                          </div>
+                          {/* <div className="grid justify-center md:grid-cols-2 lg:grid-cols-3 gap-5 lg:gap-7 my-10">
                               <Card name={data[20].name} position={data[20].position} image={data[20].img} insta={data[20].insta} linkedin={data[20].linkedin} github={data[20].github}/>
                               <Card name={data[21].name} position={data[21].position} image={data[21].img} insta={data[21].insta} linkedin={data[21].linkedin} github={data[21].github}/>
                               <Card name={data[22].name} position={data[22].position} image={data[22].img} insta={data[22].insta} linkedin={data[22].linkedin} github={data[22].github}/>
-                          </div>
+                          </div> */}
                       </section>
                   </TabPanel>
                   <TabPanel>
                       <section className="text-zinc-900 bg-gray-200 body-font pt-16 mt-8">
-                          <div className="grid justify-center md:grid-cols-2 lg:grid-cols-4 gap-5 lg:gap-7 my-10">
+                          <div className="grid justify-center md:grid-cols-1 lg:grid-cols-1 gap-5 lg:gap-7 my-10">
+                            <Card name={data[0].name} position={data[0].position} image={data[0].img} insta={data[0].insta} linkedin={data[0].linkedin} github={data[0].github}/>
+                          </div>
+                          {/* <div className="grid justify-center md:grid-cols-2 lg:grid-cols-4 gap-5 lg:gap-7 my-10">
                               <Card name={data[23].name} position={data[23].position} image={data[23].img} insta={data[23].insta} linkedin={data[23].linkedin} github={data[23].github}/>
                               <Card name={data[24].name} position={data[24].position} image={data[24].img} insta={data[24].insta} linkedin={data[24].linkedin} github={data[24].github}/>
                               <Card name={data[25].name} position={data[25].position} image={data[25].img} insta={data[25].insta} linkedin={data[25].linkedin} github={data[25].github}/>
                               <Card name={data[26].name} position={data[26].position} image={data[26].img} insta={data[26].insta} linkedin={data[26].linkedin} github={data[26].github}/>
-                          </div>
+                          </div> */}
                       </section>
                   </TabPanel>
               </Tabs>

@@ -49,7 +49,7 @@ const Event = () => {
                       key={card.title}
                       className="flex flex-col bg-slate-100 justify-center"
                     >
-                      <div className="group h-72 w-72 sm:h-96 sm:w-96">
+                      <div className="group h-72 w-72 sm:h-96 sm:w-96 md:h-72 md:w-72 lg:h-96 lg:w-96">
                         <div className="relative h-full w-full rounded-xl shadow-xl transition-all duration-500 ">
                           <div className="absolute inset-0 bg-slate-400 rounded-xl">
                             <Image
@@ -64,7 +64,7 @@ const Event = () => {
                                 <h3 className="text-white pb-3">
                                   {card.title}
                                 </h3>
-                                <p className="text-white pb-5 px-4">
+                                <p className="text-white text-sm sm:text-base md:text-sm ld:text-base pb-5 px-4">
                                   {card.desc}
                                 </p>
                                 <div className="flex justify-center space-x-2">

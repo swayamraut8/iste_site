@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 /*
   Props Received:
     image: image
@@ -9,17 +9,22 @@ import React from "react";
     align: 
  */
 const Card = (props) => {
-  const position = props.align || "center";
   return (
     <div>
       <div className="flex flex-wrap justify-center">
         <div className="p-4 lg:w-4/5 md:w-full">
           <div className="h-full flex flex-col items-center text-center">
+            {props.align ? 
+            <img
+            src={props.image}
+            alt="Member"
+            className="object-cover object-top drop-shadow-2xl flex-shrink-0 rounded-3xl w-48 h-48 mb-4"
+            /> : 
             <img
               src={props.image}
               alt="Member"
-              className={`drop-shadow-2xl flex-shrink-0 rounded-3xl w-48 h-48 object-cover object-center mb-4 object-${position}`}
-            />
+              className="object-cover object-center drop-shadow-2xl flex-shrink-0 rounded-3xl w-48 h-48 mb-4"
+            />}
             <div className="w-full">
               <h2 className="title-font font-bold text-lg">{props.name}</h2>
               <h3 className="mb-3 font-medium">{props.position}</h3>
