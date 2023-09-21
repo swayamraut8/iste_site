@@ -24,8 +24,8 @@ export default [
     name: "Anushka Darure",
     img: "https://res.cloudinary.com/dsg40wc7x/image/upload/v1674285506/ISTECouncil/TE/Anushka_D_uya1kf.png",
     position: "Operations Secretary",
-    insta: "#",
-    linkedin: "#",
+    insta: "https://www.instagram.com/_anushkadarure_/?igshid=MmU2YjMzNjRlOQ%3D%3D",
+    linkedin: "https://www.linkedin.com/in/anushka-darure/",
     github: "#",
   },
   {

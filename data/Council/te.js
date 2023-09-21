@@ -14,7 +14,7 @@ export default [
     insta:
       "https://instagram.com/bhaktidaga08?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D",
     linkedin: "https://www.linkedin.com/in/bhakti-daga-4042b3235",
-    github: "#",
+    github: "https://github.com/bhaktidaga08",
   },
   {
     name: "Rachana Rane",
@@ -69,7 +69,7 @@ export default [
     img: "https://res.cloudinary.com/df1tqicca/image/upload/v1695198432/TECouncil_Compressed/vbjs7focrohmdbqxmvtw.jpg",
     position: "Junior Technical Officer",
     insta: "https://www.instagram.com/__rishhabh_/",
-    linkedin: "https://github.com/rish88c",
+    linkedin: "https://www.linkedin.com/in/rishabh-gupta-a22666226/",
     github: "https://github.com/rish88c",
   },
   {
@@ -211,6 +211,6 @@ export default [
     position: "Junior Graphics Officer",
     insta: "https://www.instagram.com/not_your_apsara/",
     linkedin: "https://www.linkedin.com/in/devangana-barua-58871725b/",
-    github: "https://www.instagram.com/not_your_apsara/",
+    github: "https://github.com/devanganaB",
   },
 ];
