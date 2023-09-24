@@ -126,7 +126,7 @@ export default [
   // ----------------------------------------- BE Editors ---------------------------------------------------
   {
     name: "Atharva Joshi",
-    img: "/PRO/IMG-20230725-WA0016.jpg",
+    img: "/Pro/IMG-20230725-WA0016.jpg",
     position: "Senior Editor",
     insta: "https://instagram.com/atharva.mp3?igshid=OGQ2MjdiOTE=",
     linkedin: "#",
