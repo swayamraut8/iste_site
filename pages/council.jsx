@@ -17,7 +17,7 @@ export default function Council() {
                 <div className="container px-5 py-24 mx-auto pt-16">
                   <div className="flex flex-col text-center w-full mb-20">
                     <h1 className="text-3xl font-bold title-font mb-4 text-gray-900">OUR TEAM</h1>
-                    <p className="lg:w-full mx-auto mt-7 leading-relaxed text-lg text-gray-900 font-medium">Trust is knowing that when a team member does push you, they’re doing it because they care about the team</p>
+                    <p className="lg:w-full mx-auto mt-7 leading-relaxed text-lg text-gray-900 font-medium">Trust is knowing that when a team member does push you, they are doing it because they care about the team</p>
                     <Tabs>
                         <TabList>
                             <Tab className={`${be && "animate-clickbe"} float-left text-3xl text-slate-100 font-bold w-1/3 h-48 pt-16 mt-8 rounded-l-xl bg-be-tab bg-cover bg-center`} onClick={() => {setbe(true);}} onAnimationEnd={() => setbe(false)}>
