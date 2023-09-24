@@ -14,7 +14,7 @@ const Card = (props) => {
       <div className="flex flex-wrap justify-center">
         <div className="p-4 lg:w-4/5 md:w-full">
           <div className="h-full flex flex-col items-center text-center">
-            {props.align ? 
+            {props.align === "top" ? 
             <img
             src={props.image}
             alt="Member"

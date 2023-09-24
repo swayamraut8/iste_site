@@ -79,7 +79,7 @@ export default function BE() {
         <br />
         <TabPanel>
           <section className="text-zinc-900 bg-gray-200 body-font pt-16">
-            <div className="grid justify-center md:grid-cols-1 lg:grid-cols-1 gap-5 lg:gap-7 my-10">
+            <div className="grid justify-center md:grid-cols-3 lg:grid-cols-3 gap-5 lg:gap-7 my-10">
               <Card
                 name={data[0].name}
                 position={data[0].position}
@@ -88,8 +88,6 @@ export default function BE() {
                 linkedin={data[0].linkedin}
                 github={data[0].github}
               />
-            </div>
-            <div className="grid justify-center md:grid-cols-3 lg:grid-cols-3 gap-5 lg:gap-7 my-10">
               <Card
                 name={data[1].name}
                 position={data[1].position}
@@ -106,6 +104,8 @@ export default function BE() {
                 linkedin={data[2].linkedin}
                 github={data[2].github}
               />
+            </div>
+            <div className="grid justify-center md:grid-cols-2 lg:grid-cols-2 gap-5 lg:gap-7 my-10">
               <Card
                 name={data[3].name}
                 position={data[3].position}
@@ -114,12 +114,6 @@ export default function BE() {
                 linkedin={data[3].linkedin}
                 github={data[3].github}
               />
-            </div>
-          </section>
-        </TabPanel>
-        <TabPanel>
-          <section className="text-zinc-900 bg-gray-200 body-font pt-16">
-            <div className="grid justify-center md:grid-cols-1 lg:grid-cols-1 gap-5 lg:gap-7 my-10">
               <Card
                 name={data[4].name}
                 position={data[4].position}
@@ -129,6 +123,10 @@ export default function BE() {
                 github={data[4].github}
               />
             </div>
+          </section>
+        </TabPanel>
+        <TabPanel>
+          <section className="text-zinc-900 bg-gray-200 body-font pt-16">
             <div className="grid justify-center md:grid-cols-2 lg:grid-cols-4 gap-5 lg:gap-7 my-10">
               <Card
                 name={data[5].name}
@@ -161,6 +159,7 @@ export default function BE() {
                 insta={data[8].insta}
                 linkedin={data[8].linkedin}
                 github={data[8].github}
+                align="top"
               />
             </div>
             <div className="grid justify-center md:grid-cols-2 lg:grid-cols-2 gap-5 lg:gap-7 my-10">
@@ -179,6 +178,7 @@ export default function BE() {
                 insta={data[10].insta}
                 linkedin={data[10].linkedin}
                 github={data[10].github}
+                align="top"
               />
             </div>
           </section>
