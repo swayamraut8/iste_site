@@ -108,7 +108,7 @@ export default [
   },
   {
     name: "Upendra Falak",
-    img: "https://res.cloudinary.com/dsg40wc7x/image/upload/v1674285512/ISTECouncil/TE/Upendra_eer53x.png",
+    img: "/Ops/Upendra.jpg",
     position: "Senior Operations Officer",
     insta: "https://www.instagram.com/falakupendra/",
     linkedin: "https://www.linkedin.com/in/upendra-falak-7087b6238/",

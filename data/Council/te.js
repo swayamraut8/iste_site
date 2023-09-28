@@ -5,7 +5,7 @@ export default [
     position: "Executive Secretary",
     insta: " https://www.instagram.com/realshashwatt/",
     linkedin: "https://www.linkedin.com/in/shashwat-tripathi-1b8972290",
-    github: " https://github.com/Shashwat3012",
+    github: "https://github.com/Shashwat3012",
   },
   {
     name: "Bhakti Daga",
